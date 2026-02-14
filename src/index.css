@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 33% 95%;
+    --foreground: 150 20% 15%;
+
+    --card: 40 30% 97%;
+    --card-foreground: 150 20% 15%;
+
+    --popover: 40 30% 97%;
+    --popover-foreground: 150 20% 15%;
+
+    --primary: 152 40% 24%;
+    --primary-foreground: 40 33% 97%;
+
+    --secondary: 40 25% 90%;
+    --secondary-foreground: 150 20% 15%;
+
+    --muted: 40 20% 92%;
+    --muted-foreground: 150 10% 45%;
+
+    --accent: 38 60% 55%;
+    --accent-foreground: 150 20% 15%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 40 20% 85%;
+    --input: 40 20% 88%;
+    --ring: 152 40% 24%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 40 30% 97%;
+    --sidebar-foreground: 150 20% 15%;
+    --sidebar-primary: 152 40% 24%;
+    --sidebar-primary-foreground: 40 33% 97%;
+    --sidebar-accent: 40 25% 90%;
+    --sidebar-accent-foreground: 150 20% 15%;
+    --sidebar-border: 40 20% 85%;
+    --sidebar-ring: 152 40% 24%;
+
+    /* Custom tokens */
+    --success: 152 50% 40%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 90% 50%;
+    --warning-foreground: 0 0% 100%;
+    --glass: 40 30% 97% / 0.7;
+    --gradient-primary: linear-gradient(135deg, hsl(152 40% 24%), hsl(152 35% 32%));
+    --gradient-hero: linear-gradient(135deg, hsl(152 40% 24%), hsl(152 30% 35%), hsl(38 60% 55%));
+    --gradient-card: linear-gradient(145deg, hsl(40 30% 97%), hsl(40 25% 93%));
+    --shadow-card: 0 4px 20px -4px hsl(150 20% 15% / 0.08);
+    --shadow-elevated: 0 8px 30px -8px hsl(150 20% 15% / 0.12);
+  }
+
+  .dark {
+    --background: 150 15% 8%;
+    --foreground: 40 20% 92%;
+    --card: 150 15% 12%;
+    --card-foreground: 40 20% 92%;
+    --popover: 150 15% 12%;
+    --popover-foreground: 40 20% 92%;
+    --primary: 152 45% 45%;
+    --primary-foreground: 150 15% 8%;
+    --secondary: 150 12% 18%;
+    --secondary-foreground: 40 20% 92%;
+    --muted: 150 10% 20%;
+    --muted-foreground: 40 15% 60%;
+    --accent: 38 60% 55%;
+    --accent-foreground: 150 15% 8%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 150 10% 20%;
+    --input: 150 10% 20%;
+    --ring: 152 45% 45%;
+    --sidebar-background: 150 15% 10%;
+    --sidebar-foreground: 40 20% 92%;
+    --sidebar-primary: 152 45% 45%;
+    --sidebar-primary-foreground: 150 15% 8%;
+    --sidebar-accent: 150 12% 18%;
+    --sidebar-accent-foreground: 40 20% 92%;
+    --sidebar-border: 150 10% 20%;
+    --sidebar-ring: 152 45% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply text-foreground antialiased;
+    /* Added Background Image Properties Here */
+    background-color: hsl(var(--background));
+    background-image: url('/bg-watercolor.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-card/70 backdrop-blur-md border border-border/50 shadow-[var(--shadow-card)];
+  }
+  .gradient-primary {
+    background: var(--gradient-primary);
+  }
+  .gradient-hero {
+    background: var(--gradient-hero);
+  }
+  .gradient-card {
+    background: var(--gradient-card);
+  }
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+  .shadow-elevated {
+    box-shadow: var(--shadow-elevated);
+  }
+}
