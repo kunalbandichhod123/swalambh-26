@@ -2,6 +2,7 @@
 Team Aarogyam working on Pre-Clinical Multimodal Triage.
 
 <h3> Problem Statement: </h3>
+
 > Patients often struggle to describe skin conditions accurately via text alone, and standard healthcare chatbots lack the "eyes" to see the visual context of a symptom.
 
 > General image-scanning models lack the clinical reasoning to connect a visual rash to a patient's medical history or systemic symptoms (like a fever).
@@ -9,6 +10,7 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
 > There is a clear need for an intelligent, pre-clinical triage system that acts as a visual and conversational "front door" to guide patients safely to the right level of dermatological care.
 
 <h3> Proposed Solution: </h3>
+
 >  A modern, end-to-end multimodal AI platform that combines image analysis with conversational medical context to provide accurate triage, local care routing, and continuous health tracking.
 
 1] Intelligent Patient Onboarding
@@ -17,7 +19,8 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
 
 2] Multimodal AI Assistant & Dynamic UI
 
-A sleek, ChatGPT-style conversational interface supporting voice, text, and image uploads.
+> A sleek, ChatGPT-style conversational interface supporting voice, text, and image uploads.
+
 > The UI features a collapsible sidebar with a "body keypoint" map. When collapsed, the chat interface elegantly centers itself for a distraction-free experience.
  
 > The AI processes images and text simultaneously to generate probability-based assessments (e.g., "90% likelihood of Condition X, 80% likelihood of Condition Y") along with associated symptoms to watch for.
@@ -89,5 +92,6 @@ A sleek, ChatGPT-style conversational interface supporting voice, text, and imag
 - [ ] Verify PDF download functionality from frontend click
 
 - [ ] Test responsive design (Sidebar collapse animations)
+
 
 
