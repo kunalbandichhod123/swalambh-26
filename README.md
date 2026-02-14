@@ -1,4 +1,4 @@
-#DermSight_Swalambh
+# DermSight_Swalambh
 Team Aarogyam working on Pre-Clinical Multimodal Triage.
 
 <h3> Problem Statement: </h3>
@@ -27,63 +27,63 @@ An integrated map automatically locates and displays dermatology care hospitals 
 An automated follow-up system sends daily reminders to track visual progression ("Is your rash curing?"), confirm doctor visits, and log prescriptions.
 Users can easily access and download previously generated AI assessment reports as PDFs.
 
-ToDo List
-Setup & Configuration
+# ToDo List
+> Setup & Configuration
 
-[x] Initialize React + Vite project
+- [x] Initialize React + Vite project
 
-[x] Install and configure Tailwind CSS
+- [x] Install and configure Tailwind CSS
 
-[x] Setup GitHub collaboration (Frontend & Backend branches)
+- [x] Setup GitHub collaboration (Frontend & Backend branches)
 
-[x] Setup Firebase for authentication and database
+- [x] Setup Firebase for authentication and database
 
-[x] Add and update README.md
+- [x] Add and update README.md
 
-Frontend: UI/UX (AyurMealWeb's Tasks)
+> Frontend: UI/UX
+- [ ] Build Patient Login & Health Profile Onboarding screen
 
-[ ] Build Patient Login & Health Profile Onboarding screen
+- [x] Build Main Dashboard (Modern, professional styling)
 
-[x] Build Main Dashboard (Modern, professional styling)
+- [ ] Develop ChatGPT-style Chatbot UI (Input bar with Voice, Text, Image upload)
 
-[ ] Develop ChatGPT-style Chatbot UI (Input bar with Voice, Text, Image upload)
+- [ ] Implement Body Keypoint Sidebar (Interactive UI element)
 
-[ ] Implement Body Keypoint Sidebar (Interactive UI element)
+- [ ] Add Sidebar Toggle Logic (Minimize keypoints, center and expand chat)
 
-[ ] Add Sidebar Toggle Logic (Minimize keypoints, center and expand chat)
+- [ ] Build Map UI component for displaying nearby hospitals
 
-[ ] Build Map UI component for displaying nearby hospitals
+- [ ] Build UI for Past Consultations & PDF Report downloads
 
-[ ] Build UI for Past Consultations & PDF Report downloads
+> Backend: AI & APIs (Kunal's Tasks)
 
-Backend: AI & APIs (Kunal's Tasks)
+- [ ] Setup backend server (Node.js/Python)
 
-[ ] Setup backend server (Node.js/Python)
+- [ ] Integrate Multimodal LLM API (Vision + Text processing)
 
-[ ] Integrate Multimodal LLM API (Vision + Text processing)
+- [ ] Write prompt logic for probability-based symptom output 
 
-[ ] Write prompt logic for probability-based symptom output (90%/80% formatting)
+- [ ] Implement Geolocation/Google Maps API for the 20km hospital radius search
 
-[ ] Implement Geolocation/Google Maps API for the 20km hospital radius search
+- [ ] Create PDF Generation endpoint for past chat reports
 
-[ ] Create PDF Generation endpoint for past chat reports
+> Cloud & Automation (Daily Reminders)
 
-Cloud & Automation (Daily Reminders)
+- [ ] Setup Firebase Cloud Messaging (FCM) for push notifications
 
-[ ] Setup Firebase Cloud Messaging (FCM) for push notifications
+- [ ] Configure n8n workflows for automated daily follow-ups
 
-[ ] Configure n8n workflows for automated daily follow-ups
+- [ ] Create trigger for day-after check-in ("How is your condition now?")
 
-[ ] Create trigger for day-after check-in ("How is your condition now?")
+- [ ] Create trigger for post-doctor check-in ("What prescription were you given?")
 
-[ ] Create trigger for post-doctor check-in ("What prescription were you given?")
+> Integration & Testing
 
-Integration & Testing
+- [ ] Connect Frontend Chat UI to Backend AI endpoint
 
-[ ] Connect Frontend Chat UI to Backend AI endpoint
+- [ ] Test Image + Text payload handling
 
-[ ] Test Image + Text payload handling
+- [ ] Verify PDF download functionality from frontend click
 
-[ ] Verify PDF download functionality from frontend click
+- [ ] Test responsive design (Sidebar collapse animations)
 
-[ ] Test responsive design (Sidebar collapse animations)
