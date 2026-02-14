@@ -47,31 +47,29 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
 - [x] Add and update README.md
 
 > Frontend: UI/UX
-- [ ] Build Patient Login & Health Profile Onboarding screen
+- [x] Build Patient Login & Health Profile Onboarding screen
 
 - [x] Build Main Dashboard (Modern, professional styling)
 
-- [ ] Develop ChatGPT-style Chatbot UI (Input bar with Voice, Text, Image upload)
+- [x] Develop ChatGPT-style Chatbot UI (Input bar with Voice, Text, Image upload)
 
-- [ ] Implement Body Keypoint Sidebar (Interactive UI element)
+- [x] Implement Body Keypoint Sidebar (Interactive UI element)
 
-- [ ] Add Sidebar Toggle Logic (Minimize keypoints, center and expand chat)
+- [x] Build Map UI component for displaying nearby hospitals
 
-- [ ] Build Map UI component for displaying nearby hospitals
-
-- [ ] Build UI for Past Consultations & PDF Report downloads
+- [x] Build UI for Past Consultations & PDF Report downloads
 
 > Backend: AI & APIs (Kunal's Tasks)
 
-- [ ] Setup backend server (Node.js/Python)
+- [x] Setup backend server (Node.js/Python)
 
-- [ ] Integrate Multimodal LLM API (Vision + Text processing)
+- [x] Integrate Multimodal LLM API (Vision + Text processing)
 
-- [ ] Write prompt logic for probability-based symptom output 
+- [x] Write prompt logic for probability-based symptom output 
 
 - [ ] Implement Geolocation/Google Maps API for the 20km hospital radius search
 
-- [ ] Create PDF Generation endpoint for past chat reports
+- [x] Create PDF Generation endpoint for past chat reports
 
 > Cloud & Automation (Daily Reminders)
 
@@ -92,6 +90,7 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
 - [ ] Verify PDF download functionality from frontend click
 
 - [ ] Test responsive design (Sidebar collapse animations)
+
 
 
 
