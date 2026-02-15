@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DermSight_Swalambh
 Team Aarogyam working on Pre-Clinical Multimodal Triage.
 
