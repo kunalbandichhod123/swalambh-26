@@ -25,13 +25,23 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
  
 > The AI processes images and text simultaneously to generate probability-based assessments (e.g., "90% likelihood of Condition X, 80% likelihood of Condition Y") along with associated symptoms to watch for.
 
-3] Geolocation Routing & Longitudinal Tracking
+3] 3d body point positioning for accuracy
 
-> An integrated map automatically locates and displays dermatology care hospitals within a 20km radius based on the AI's triage output.
- 
-> An automated follow-up system sends daily reminders to track visual progression ("Is your rash curing?"), confirm doctor visits, and log prescriptions.
- 
-> Users can easily access and download previously generated AI assessment reports as PDFs.
+> Used full body images from all side for point precision
+
+> Mapped keypopints on the body of the images
+
+> One click affected location context to chat 
+
+4] RAG based AI multimodel Chat + image assistant for skin care
+
+> Have own dataset and made vector DB from more than 10+ pdfs (vast knowledge)
+
+> No Risk of AI hallucinations and Biasing just Pure accurate answer
+
+> Successfully used LLAMA 4 SCOUT 17b for incredible accuracy
+
+> Perfect Responses with Analysis of top 3 possible diseases
 
 # ToDo List
 > Setup & Configuration
@@ -46,12 +56,20 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
 
 - [x] Add and update README.md
 
+> Main AI multimodal
+
+- [x] Developed full end to end production ready AI chat + image assistant for Skin related queries
+ 
+- [x] Introduced Analysis feature exlains about image with top 3 possible risks
+  
+- [x] Built and complete modern UI for Ai assistant 
+
 > Frontend: UI/UX
 - [x] Build Patient Login & Health Profile Onboarding screen
 
 - [x] Build Main Dashboard (Modern, professional styling)
 
-- [x] Develop ChatGPT-style Chatbot UI (Input bar with Voice, Text, Image upload)
+- [x] Develop ChatGPT-style Assistant UI (Input bar with Voice, Text, Image upload)
 
 - [x] Implement Body Keypoint Sidebar (Interactive UI element)
 
@@ -67,29 +85,30 @@ Team Aarogyam working on Pre-Clinical Multimodal Triage.
 
 - [x] Write prompt logic for probability-based symptom output 
 
-- [ ] Implement Geolocation/Google Maps API for the 20km hospital radius search
+- [x] Implement Geolocation/Google Maps API for the 20km hospital radius search
 
 - [x] Create PDF Generation endpoint for past chat reports
 
-> Cloud & Automation (Daily Reminders)
+> Unique Feature of our MVP
 
-- [ ] Setup Firebase Cloud Messaging (FCM) for push notifications
+- [x] Setup SUPABASE for authentication
 
-- [ ] Configure n8n workflows for automated daily follow-ups
+- [x] Used 3D body view for accurate body positioning 
 
-- [ ] Create trigger for day-after check-in ("How is your condition now?")
+- [x] Report Download as PDF
 
-- [ ] Create trigger for post-doctor check-in ("What prescription were you given?")
+- [x] Top diseases analytics on dashboard
 
 > Integration & Testing
 
-- [ ] Connect Frontend Chat UI to Backend AI endpoint
+- [x] Connect Frontend Chat UI to Backend AI endpoint
 
-- [ ] Test Image + Text payload handling
+- [x] Test Image + Text payload handling
 
-- [ ] Verify PDF download functionality from frontend click
+- [x] Verify PDF download functionality from frontend click
 
-- [ ] Test responsive design (Sidebar collapse animations)
+- [x] Test responsive design (Sidebar collapse animations)
+
 
 
 
