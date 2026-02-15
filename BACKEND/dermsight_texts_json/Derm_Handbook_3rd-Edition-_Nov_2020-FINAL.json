@@ -1,0 +1,862 @@
+[
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg2",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 2,
+    "text": "This publication is supported by the British Association of Dermatologists.\n\n First edition 2009\n\n Revised first edition 2009\n\n Second edition 2014\n\n Third edition 2020\n\nFor comments and feedback, please contact the author at drnicoledermatology@gmail.com",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg3",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 3,
+    "text": "Dermatology\n\n Dr Nicole Yi Zhen Chiang MBChB (Hons), MRCP (UK), MRCP(UK)(Derm)\n Consultant Dermatologist\n Manchester University Hospitals NHS Trust\n Withington Hospital M20 2LR\n Manchester\n\n Professor Julian Verbov JP MD FRCP FRCPCH CBiol FRSB FLS MCSFS\n Professor of Dermatology\n Consultant Paediatric Dermatologist\n Alder Hey Children’s Hospital\n East Prescot Road\n Liverpool L14 5AB",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg4",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 4,
+    "text": "Contents\n\n Preface 5\n\n Foreword 5\n\n What is dermatology? 6\n\n Essential Clinical Skills 7\n Taking a dermatological history 7\n Examining the skin 8\n Communicating examination findings 9\n\n Background Knowledge 23\n Functions of normal skin 23\n Structure of normal skin and the skin appendages 23\n Principles of wound healing 27\n\n Emergency Dermatology 28\n Urticaria, Angioedema and Anaphylaxis 29\n Erythema nodosum 30\n Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis 31\n Acute meningococcaemia 32\n Erythroderma 33\n Eczema herpeticum 34\n Necrotizing fasciitis 35\n\n Skin Infections / Infestations 36\n Erysipelas and cellulitis 37\n Staphylococcal scalded skin syndrome 38\n Superficial fungal skin infections 39\n\n Skin Cancer 41\n Basal cell carcinoma 42\n Squamous cell carcinoma 43\n Malignant melanoma 44\n\n Inflammatory Skin Conditions 46\n Atopic eczema 47\n Acne vulgaris 49\n Psoriasis 50\n\n Blistering Disorders 52\n Bullous pemphigoid 53\n Pemphigus vulgaris 54",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg5",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 5,
+    "text": "Pigmentary Disorders 55\n Vitiligo 55\n Melasma 56\n\nCommon Important Problems 57\n Chronic leg ulcers 58\n Itchy eruption 60\n A changing pigmented lesion 62\n Purpuric eruption 64\n A red swollen leg 66\n Keloid Scars 67\n\nManagement 68\n Emollients 69\n Topical/Oral steroids 69\n Oral aciclovir 69\n Oral antihistamines 70\n Topical/Oral antibiotics 70\n Topical antiseptics 70\n Oral retinoids 70\n Biological therapy 71\n\nPractical Skills 72\n Patient education 73\n Written communication 74\n Prescribing skills 74\n Clinical examination and investigations 75\n\nGeneral Reference & Acknowledgements 76",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg6",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 6,
+    "text": "Preface to the 3rd edition\n\n11 years have passed since this Handbook first appeared. It has proved immensely popular\nand it has been further updated. We hope that it will continue to be a valuable source book\nfor those interested in learning about this exciting specialty. The Handbook was designed to\nbe an overview, both succinct and reader-friendly which continues to be our aim.\n\nOnce again, many thanks to the BAD for its essential and continuing support.\n\nJulian Verbov\n\nProfessor of Dermatology Liverpool 2020\n\n Foreword to Third edition\n\nPast BAD President Dr Mark Goodfield wrote in the first edition:\n‘There is a real need for appropriate information about dermatological diseases to meet the\neducational needs of doctors at all levels.’\n\nThis holds true even more today than in 2009 with the exponential use of social media as an\ninformation sourced by patients and clinicians alike. Since its first publication, this book has\nbeen the go to resource for accurate knowledge in common and urgent dermatological\nproblems. Its essential role in supporting their workplace learning is highlighted by the 8,843\ndownloads and 50,000 requests for hard copies from individual students and medical\nschools throughout the UK. Starting with scientific and epidemiological facts, moving\nthrough clinical features and management, medical students are given a structure that\nenables them to organise learning effectively. The content remains focused on learning at\nthe undergraduate stage of the medical education spectrum: a vital foundation for\npostgraduate training in dermatology.\n\nThe UK population has become increasingly diverse over the last few decades, it is therefore\nnecessary to update the handbook to highlight tips for assessment, variation in presentation\nin common and important skin conditions (e.g. common pigmentary disorders) that reflect\nthe spectrum of cutaneous diversity junior clinicians will encounter in their practice. This, in\ncombination, with other BAD resources under current development will ensure that medical\nstudents continue to learn from the highest quality education in dermatology to the benefit\nof our patients.\n\nDr Tanya Bleiker\nPresident of the British Association of Dermatologists\n\nProf Mini Singh\nUndergraduate Work Stream Chair, British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg7",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 7,
+    "text": "What is dermatology?\n\n • Dermatology is the study of both normal and abnormal skin and associated\n\n structures such as hair, nails, and oral and genital mucous membranes.\n\nWhy is dermatology important?\n\n • Skin diseases are very common, affecting up to a third of the population at any one\n\n time.\n\n • Skin diseases have serious impacts on life. They can cause physical damage,\n\n embarrassment, and social and occupational restrictions. Chronic skin diseases may\n\n cause financial constraints with repeated sick leave. Some skin conditions can be\n\n life-threatening.\n\n • In 2006-07, the total NHS health expenditure for skin diseases was estimated to be\n\n around ₤97 million (approximately 2% of the total NHS health expenditure).\n\nWhat is this handbook about?\n\n • The British Association of Dermatologists outlined the essential and important\n\n learning outcomes that should be achieved by all medical undergraduates for the\n\n competent assessment of patients presenting with skin disorders (available on:\n\n https://www.bad.org.uk/shared/get-file.ashx?itemtype=document&id=4168)\n\n • This handbook addresses these learning outcomes and aims to equip you with the\n\n knowledge and skills to practise competently and safely as a junior doctor.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg8",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 8,
+    "text": "ial\n\n Essential Clinical SkillsClinical\n\n • Detailed history taking and examination provide important diagnostic clues in theSkills\n– assessment of skin problems.\nTaking Learning outcomes:\na\n 1. Ability to take a dermatological history\n\n 2. Ability to explore a patient’s concerns and expectations\n\n 3. Ability to interact sensitively with people with skin disease dermatological 4. Ability to examine skin, hair, nails and mucous membranes systematically\n\n showing respect for the patienthistory\n 5. Ability to describe physical signs in skin, hair, nails and mucosa\n\n 6. Ability to record findings accurately in patient’s records\n\n Taking a dermatological history\n • Using the standard structure of history taking, below are the important points to\n\n consider when taking a history from a patient with a skin problem (Table 1).\n • For dark lesions or moles, pay attention to questions marked with an asterisk (*).\n\n Table 1. Taking a dermatological history\n\n Main headings Key questions\n\n Presenting complaint Nature, site and duration of problem\n\n History of presenting complaint Initial appearance and evolution of lesion*\n\n Symptoms (particularly itch and pain)*\n\n Aggravating and relieving factors\n\n Previous and current treatments (effective or not)\n\n Recent contact, stressful events, illness and travel\n\n History of sunburn and use of tanning machines*\n\n Skin type (see )*\n\n Past medical history History of atopy i.e. asthma, allergic rhinitis, eczema\n\n History of skin cancer and suspicious skin lesions\n\n Family history Family history of skin disease*\n\n Social history Occupation (including skin contacts at work)\n\n Improvement of lesions when away from work",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg9",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 9,
+    "text": "ial\n\nMedication and allergies Regular, recent and over-the-counter medications\nImpact on quality of life Impact of skin condition and concerns Clinical\n Skills\nExamining the skin –\n\n • There are four important principles in performing a good examination of the skin: Examining\n INSPECT, DESCRIBE, PALPATE and SYSTEMATIC CHECK (Table 2).\n the\n skin\nTable 2. Examining the skin\n\nMain principles Key features\n\nINSPECT in general General observation\n\n Note if richly pigmented skin therefore signs of skin\n\n changes may be different ( e.g. erythema not as\n\n obvious\n\n Site and number of lesion(s)\n\n If multiple, pattern of distribution and configuration\n\nDESCRIBE the individual lesion SCAM\n\n Size (the widest diameter), Shape\n\n Colour\n\n Associated secondary change\n\n Morphology, Margin (border)\n\n*If the lesion is pigmented, remember ABCDE\n\n(the presence of any of these features increase the likelihood of melanoma):\n\n Asymmetry (lack of mirror image in any of the\n\n four quadrants)\n\n Irregular Border\n\n Two or more Colours within the lesion\n\n Diameter > 6mm\n\n Evolution ( history of change in size, shape or\n\n colour)\n\nPALPATE* the individual lesion Surface",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg10",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 10,
+    "text": "al\n\n ConsistencyClinical Mobility\n\n TendernessSkills\n– Temperature\n\n * Essential in richly pigmented skin to accurately\n\n classify lesions Communicating\n SYSTEMATIC CHECK Examine the nails, scalp, hair & mucous membranes\n\n General examination of all systems relevant to\n\n presenting symptoms examination\n findings\n\n Communicating examination findings\n\n • In order to describe, record and communicate examination findings accurately, it is\n\n important to learn the appropriate terminology (Tables 3-10).\n\n Table 3. General terms\n\n Terms Meaning\n\n Pruritus Itching\n\n Lesion An area of altered skin\n\n Rash An eruption\n\n Naevus A localised malformation of tissue structures\n\n Example: (Picture Source: D@nderm)\n\n Pigmented melanocytic naevus (mole)\n\n Comedone A plug in a sebaceous follicle containing altered sebum, bacteria and\n\n cellular debris; can present as either open (blackheads) or closed\n\n (whiteheads)\n\n Example:",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg11",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 11,
+    "text": "ial\n Clinical\n Skills\n\n –\n Communicating\n\n Open comedones (left) and closed comedones (right) in acne examination\nTable 4. Distribution (the pattern of spread of lesions) findings\n\nTerms Meaning\n\nGeneralised All over the body\n\nWidespread Extensive\n\nLocalised Restricted to one area of skin only\n\nFlexural Body folds i.e. groin, neck, behind ears, popliteal and antecubital fossa\n\nExtensor Knees, elbows, shins\n\nPressure areas Sacrum, buttocks, ankles, heels\n\nDermatome An area of skin supplied by a single spinal nerve\n\nPhotosensitive Affects sun-exposed areas such as face, neck and back of hands\n\n Example:\n\n Sunburn\n\nKöebner A linear eruption arising at site of trauma\n\nphenomenon Example:",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg12",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 12,
+    "text": "al\nClinical\n\n PsoriasisSkills\n\n–\n Communicating\n examination\n Table 5. Configuration (the pattern or shape of grouped lesions)\n\n Terms Meaning findings\n Discrete Individual lesions separated from each other\n\n Confluent Lesions merging together\n\n Linear In a line\n\n Target Concentric rings (like a dartboard)\n\n Example:\n\n Erythema multiforme\n\n Annular Like a circle or ring\n\n Example:\n\n Tinea corporis\n (‘ringworm’)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg13",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 13,
+    "text": "al\n\nDiscoid / A coin-shaped/round lesionNummular Example: Discoid eczema Clinical\n Hypopigmentation of discoid\n lupus Skills\n\n –\n Communicating\n examination\n findings\nTable 6. Colour\n\nTerms Meaning\n\nErythema Redness (due to inflammation and vasodilatation) which blanches on\n\n pressure\n\n Example:\n\n Palmar erythema\n\nPurpura Red or purple colour (due to bleeding into the skin or mucous membrane)\n\n which does not blanch on pressure – petechiae (small pinpoint macules) and\n\n ecchymoses (larger bruise-like patches)\n\n Example:",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg14",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 14,
+    "text": "al\nClinical\nSkills\n– Henoch-Schönlein purpura\n Communicating (palpable small vessel vasculitis)\n examination\n Hypo- Area(s) of paler skin\n\n pigmentation Examples: findings\n Pityriasis versicolor\n (a superficial fungus infection)\n\n R © Cardiff and Vale University Health Board\n\n De-pigmentation: White skin due to absence of melanin\n\n Examples:\n\n Vitiligo\n (loss of skin\n melanocytes)\n\n M and R © Cardiff and Vale University Health Board\n\n Note the three colours ‘tricolor’ pattern typical of vitiligo.\n\n Hyper-pigmentation Darker skin which may be due to various causes (e.g. postinflammatory, melasma, naevi)\n\n Melasma (increased melanin pigmentation)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg15",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 15,
+    "text": "ial\n\n Examples: Clinical\n Skills\n\n –\n Communicating\n examination\n findings\n\nTable 7. Morphology (the structure of a lesion) – Primary lesions\n\nTerms Meaning\n\nMacule A flat area of altered colour\n\n Example:\n\n Freckles\n\nPatch Larger flat area of altered colour or texture\n\n Example:\n\n Vascular malformation\n (naevus flammeus / ‘port wine stain’)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg16",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 16,
+    "text": "al\nClinical Papule Solid raised lesion < 0.5cm in diameter\n\n Example:Skills\n\n–\n Communicating Xanthomata\n examination\n findings\n\n Nodule Solid raised lesion >0.5cm in diameter with a deeper component\n\n Example: (Picture source: D@nderm)\n\n Pyogenic granuloma\n (granuloma telangiectaticum)\n\n Plaque Palpable scaling raised lesion >0.5cm in diameter\n\n Example:\n\n Psoriasis\n\n Vesicle Raised, clear fluid-filled lesion <0.5cm in diameter\n\n (small blister) Example:",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg17",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 17,
+    "text": "ial\n Clinical\n Skills\n Acute hand eczema\n –\n (pompholyx)\nBulla Raised, clear fluid-filled lesion >0.5cm in diameter Communicating\n\n(large blister) Example:\n examination\n\n Reaction to insect bites findings\n\nPustule Pus-containing lesion <0.5cm in diameter\n\n Example:\n\n Acne\n\nAbscess Localised accumulation of pus in the dermis or subcutaneous tissues\n\n Example:\n\n Periungual abscess\n (acute paronychia)\n\nW(h)eal Transient raised lesion due to dermal oedema",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg18",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 18,
+    "text": "al\n\n Examples: UrticariaClinical\nSkills\n\n–\n Communicating Note how subtle the erythema is in this wheal in patient with skin type V.\n\n Boil/Furuncle Staphylococcal infection around or within a hair follicle examination\n\n Carbuncle Staphylococcal infection of adjacent hair follicles (multiple boils/furuncles) findings\n\n Table 8. Morphology - Secondary lesions (lesions that evolve from primary lesions)\n\n Terms Meaning\n\n Excoriation Loss of epidermis following trauma\n\n Example:\n\n Excoriations in eczema",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg19",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 19,
+    "text": "ial\n\nLichenification Well-defined roughening of skin with accentuation of skin markings Examples: Clinical\n Skills\n\n –\n Communicating\n\nLichenification due to chronic © Cardiff and Vale University Health Board Lichenification in\nrubbing in eczema\n darker skin types: examination\n the clue is the\n\n increased findings\n appearance of skin\n\n lines at the bottom\n\n of this photograph.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg20",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 20,
+    "text": "ial\nClinical Scales Flakes of stratum corneum\n\n Example:Skills\n\n–\n\n Psoriasis (showing silvery scales) Communicating\n examination\n Crust Rough surface consisting of dried serum, blood, bacteria and cellular debris\n\n that has exuded through an eroded epidermis (e.g. from a burst blister) findings\n Example:\n\n Impetigo\n\n Scar New fibrous tissue which occurs post-wound healing, and may be atrophic\n\n (thinning), hypertrophic (hyperproliferation within wound boundary), or\n\n keloidal (hyperproliferation beyond wound boundary)\n\n Examples: Keloid scars\n\n R © Cardiff and Vale University Health Board",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg21",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 21,
+    "text": "al\nUlcer Loss of epidermis and dermis (heals with scarring) Clinical\n\n Example: Skills\n\n –\n\n Leg ulcers Communicating\n examination\n findings\n\nFissure An epidermal crack often due to excess dryness\n\n Example:\n\n Eczema\n\nStriae Linear areas which progress from purple to pink to white, with the\n\n histopathological appearance of a scar (associated with excessive steroid\n\n usage and glucocorticoid production, growth spurts and pregnancy)\n\n Example:\n\n Striae",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg22",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 22,
+    "text": "ial\n\n Table 9. HairClinical Terms Meaning\n\n Alopecia Loss of hairSkills\n– Examples:\n Communicating\n examination\n findings Alopecia areata (well-defined patch of complete hair loss) Scarring alopecia of the scalp © Cardiff\n and Vale University Health Board\n\n Hirsutism Androgen-dependent hair growth in a female\n\n Example:\n\n Hirsutism\n\n Hypertrichosis Non-androgen dependent pattern of excessive hair growth\n\n (e.g. in pigmented naevi)\n\n Example:\n\n Hypertrichosis",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg23",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 23,
+    "text": "al\n\nTable 10. Nails ClinicalTerms Meaning\n\nClubbing Loss of angle between the posterior nail fold and nail plate Skills\n (associations include suppurative lung disease, cyanotic heart disease, –\n\n inflammatory bowel disease and idiopathic)\n\n Example: (Picture source: D@nderm) Communicating\n\n Clubbing\n examination\n\nKoilonychia Spoon-shaped depression of the nail plate findings\n (associations include iron-deficiency anaemia, congenital and idiopathic)\n\n Example: (Picture source: D@nderm)\n\n Koilonychia\n\nOnycholysis Separation of the distal end of the nail plate from nail bed\n\n (associations include trauma, psoriasis, fungal nail infection and\n\n hyperthyroidism)\n\n Example: (Picture source: D@nderm)\n\n Onycholysis\n\nPitting Punctate depressions of the nail plate\n\n (associations include psoriasis, eczema and alopecia areata)\n\n Example: (Picture source: D@nderm)\n\n Pitting",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg24",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 24,
+    "text": "ound\n\n Background Knowledge\n\n • This section covers the basic knowledge of normal skin structure and functionKnowledge\n– required to help understand how skin diseases occur.\n\n Learning outcomes: Functions\nof 1. Ability to describe the functions of normal skin\n\n 2. Ability to describe the structure of normal skin\nnormal 3. Ability to describe the principles of wound healing\nskin 4. Ability to describe the difficulties, physical and psychological, that may be\n\n experienced by people with chronic skin disease\n\n Functions of normal skin\n • These include:\n\n i) Protective barrier against environmental insults\n\n ii) Temperature regulation\n\n iii) Sensation\n\n iv) Vitamin D synthesis\n\n v) Immunosurveillance\n\n vi) Appearance/cosmesis\n\n Structure of normal skin and the skin appendages\n • The skin is the largest organ in the human body. It is composed of the epidermis and\n\n dermis overlying subcutaneous tissue. The skin appendages (structures formed by\n\n skin-derived cells) are hair, nails, sebaceous glands and sweat glands.\n\n Epidermis\n • The epidermis is composed of 4 major cell types, each with specific functions (Table\n\n 11).",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg25",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 25,
+    "text": "ound\nTable 11. Main functions of each cell type in the epidermis\n\nCell types Main functions\n\nKeratinocytes Produce keratin as a protective barrierLangerhans’ cells Present antigens and activate T-lymphocytes for immune protection Knowledge\n\n –\nMelanocytes Produce melanin, which gives pigment to the skin and protects the\n\n cell nuclei from ultraviolet (UV) radiation-induced DNA damage Structure\nMerkel cells Contain specialised nerve endings for sensation\n of\n • There are 4 layers in the epidermis (Table 12), each representing a different stage of normal\n maturation of the keratinocytes. The average epidermal turnover time (migration of skin\n cells from the basal cell layer to the horny layer) is about 30 days. and\n the\nTable 12. Composition of each epidermal layer skin\n\nEpidermal layers Composition\n\nStratum basale Actively dividing cells, deepest layer appendages(Basal cell layer)\n\nStratum spinosum Differentiating cells\n\n(Prickle cell layer)\n\nStratum granulosum So-called because cells lose their nuclei and contain\n\n(Granular cell layer) granules of keratohyaline. They secrete lipid into the\n\n intercellular spaces.\n\nStratum corneum Layer of keratin, most superficial layer\n\n(Horny layer)\n\n • In areas of thick skin such as the sole, there is a fifth layer, stratum lucidum, beneath\n\n the stratum corneum. This consists of paler, compact keratin.\n\n • Pathology of the epidermis may involve:\n\n a) changes in epidermal turnover time - e.g. psoriasis (reduced epidermal\n\n turnover time)\n\n b) changes in the surface of the skin or loss of epidermis - e.g. scales,\n\n crusting, exudate, ulcer\n\n c) changes in pigmentation of the skin - e.g. hypo- or hyper-pigmented skin",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg26",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 26,
+    "text": "ound\n Dermis\n • The dermis is made up of collagen (mainly), elastin and glycosaminoglycans, which\n\n are synthesised by fibroblasts. Collectively, they provide the dermis with strengthKnowledge and elasticity.\n\n–\n • The dermis also contains immune cells, nerves, skin appendages as well as lymphatic\n\n and blood vessels. Structure\n • Pathology of the dermis may involve:of\nnormal a) papules,changes innodules,the contourskin atrophyof the skinandorulcersloss of dermis e.g. formation of\nskin b) disorders of skin appendages e.g. disorders of hair, acne (disorder of\nand sebaceous glands)\nthe c) changes related to lymphatic and blood vessels e.g. erythema\nskin (vasodilatation), urticaria (increased permeability of capillaries and small\n\n venules), purpura (capillary leakage)\n appendages Hair\n • There are 3 main types of hair:\n\n a) lanugo hair (fine long hair in fetus)\n\n b) vellus hair (fine short hair on all body surfaces)\n\n c) terminal hair (coarse long hair on the scalp, eyebrows, eyelashes and\n\n pubic areas)\n • Each hair consists of modified keratin and is divided into the hair shaft (a keratinized\n\n tube) and hair bulb (actively dividing cells, and melanocytes which give pigment to\n\n the hair).\n • Each hair follicle enters its own growth cycle. This occurs in 3 main phases:\n\n a) anagen (long growing phase)\n\n b) catagen (short regressing phase)\n\n c) telogen (resting/shedding phase)\n • Pathology of the hair may involve:\n\n a) reduced or absent melanin pigment production e.g. grey or white hair\n\n b) changes in duration of the growth cycle e.g. hair loss (premature entry of\n\n hair follicles into the telogen phase)\n\n c) shaft abnormalities",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg27",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 27,
+    "text": "ound\nNails\n• The nail is made up of a nail plate (hard keratin) which arises from the nail matrix at\n\n the posterior nail fold, and rests on the nail bed.• The nail bed contains blood capillaries which gives the pink colour of the nails. Knowledge\n –\n• Pathology of the nail may involve:\n\n a) abnormalities of the nail matrix e.g. pits and ridges Structure\n b) abnormalities of the nail bed e.g. splinter haemorrhage of\n\n c) abnormalities of the nail plate e.g. discoloured nails, thickening of nails\n normal\nSebaceous glands skin\n and• Sebaceous glands produce sebum via hair follicles (collectively called a\n the\n pilosebaceous unit). They secrete sebum onto the skin surface which lubricates and\n skin waterproofs the skin.\n• Sebaceous glands are stimulated by the conversion of androgens to\n\n dihydrotestosterone and therefore become active at puberty. appendages\n• Pathology of sebaceous glands may involve:\n\n a) increased sebum production and bacterial colonisation e.g. acne\n\n b) sebaceous gland hyperplasia\n\nSweat glands\n• Sweat glands regulate body temperature and are innervated by the sympathetic\n\n nervous system.\n• They are divided into two types: eccrine and apocrine sweat glands.\n• Eccrine sweat glands are universally distributed in the skin.\n• Apocrine sweat glands are found in the axillae, areolae, genitalia and anus, and\n\n modified glands are found in the external auditory canal. They only function from\n\n puberty onwards and action of bacteria on the sweat produces body odour.\n\n• Pathology of sweat glands may involve:\n\n a) inflammation/infection of apocrine glands e.g. hidradenitis suppurativa\n\n b) overactivity of eccrine glands e.g. hyperhidrosis",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg28",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 28,
+    "text": "ound\n Principles of wound healing\n\n • Wound healing occurs in 4 phases: haemostasis, inflammation, proliferation andKnowledge remodelling (Table 13).\n\n–\n\n Table 13. Stages of wound healing Principles Stages of wound healing Mechanisms\nof\nwound Haemostasis ●● VasoconstrictionClot formation and platelet aggregation\nhealing Inflammation ● Vasodilatation\n\n ● Migration of neutrophils and macrophages\n\n ● Phagocytosis of cellular debris and invading\n\n bacteria\n\n Proliferation ● Granulation tissue formation (synthesised by\n\n fibroblasts) and angiogenesis\n\n ● Re-epithelialisation (epidermal cell proliferation\n\n and migration)\n\n Remodelling ● Collagen fibre re-organisation\n\n ● Scar maturation",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg29",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 29,
+    "text": "ency\nEmergency Dermatology\n\n • These are rapidly progressive skin conditions and some are potentially life- Dermatology\n threatening. Early recognition is important to implement prompt supportive care\n\n and therapy.\n • Some are drug reactions and the offending drug should be withdrawn.\n • The essential management for all dermatological emergencies, like any emergency,\n\n consists of:\n\n i) full supportive care - ABC of resuscitation\n\n ii) withdrawal of precipitating agents\n\n iii) management of associated complications\n\n iv) specific treatment (highlighted below under each condition)\n\n Learning outcomes:\n\n 1. Ability to recognise and describe these skin reactions:\n\n - urticaria\n\n - erythema nodosum\n\n - erythema multiforme\n\n 2. Ability to recognise these emergency presentations, discuss the causes,\n\n potential complications and provide first contact care in these emergencies:\n\n - anaphylaxis and angioedema\n\n - toxic epidermal necrolysis\n\n - Stevens-Johnson syndrome\n\n - acute meningococcaemia\n\n - erythroderma\n\n - eczema herpeticum\n\n - necrotising fasciitis",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg30",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 30,
+    "text": "ency\n Urticaria, Angioedema and Anaphylaxis\n\n Causes ● Idiopathic, food (e.g. nuts, sesame seeds, shellfish, dairy\n\n products), drugs (e.g. penicillin, contrast media, non-steroidal anti-Dermatology\n– inflammatory drugs (NSAIDs), morphine, angiotensin-converting\n\n enzyme inhibitors (ACE-i)), insect bites, contact (e.g. latex), viral or Urticaria, parasitic infections, autoimmune, and hereditary (in some cases of\n\n angioedema)\n\n Description ● Urticaria is due to a local increase in permeability of capillaries Angioedema and small venules. A large number of inflammatory mediators\nand (including prostaglandins, leukotrienes, and chemotactic factors)\n\n play a role but histamine derived from skin mast cells appears to\n\n be the major mediator. Local mediator release from mast cells can Anaphylaxis be induced by immunological or non-immunological mechanisms.\n\n Presentation ● Urticaria (swelling involving the superficial dermis, raising the\n\n epidermis): itchy wheals\n\n ● Angioedema (deeper swelling involving the dermis and\n\n subcutaneous tissues): swelling of tongue and lips\n\n ● Anaphylaxis (also known as anaphylactic shock): bronchospasm,\n\n facial and laryngeal oedema, hypotension; can present initially\n\n with urticaria and angioedema\n\n Management ● Antihistamines for urticaria\n\n ● Corticosteroids for severe acute urticaria and angioedema\n\n ● Adrenaline, corticosteroids and antihistamines for anaphylaxis\n\n Complications ● Urticaria is normally uncomplicated\n\n ● Angioedema and anaphylaxis can lead to asphyxia, cardiac arrest\n\n and death\n\n Urticaria Angioedema",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg31",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 31,
+    "text": "ency\nErythema nodosum\n\nDescription ● A hypersensitivity response to a variety of stimuli Dermatology\nCauses ● Group A beta-haemolytic streptococcus, primary tuberculosis, –\n\n pregnancy, malignancy, sarcoidosis, inflammatory bowel disease\n (IBD), chlamydia and leprosy Erythema\n\nPresentation ● Discrete tender nodules which may become confluent nodosum\n ● Lesions continue to appear for 1-2 weeks and leave bruise-like\n\n discolouration as they resolve\n\n ● Lesions do not ulcerate and resolve without atrophy or scarring\n\n ● The shins are the most common site\n\n Erythema nodosum",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg32",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 32,
+    "text": "ency\n Erythema multiforme, Stevens-Johnson syndrome and Toxic epidermal necrolysis\n\n Description ● Erythema multiforme, often of unknown cause, is an acute selflimiting inflammatory condition with herpes simplex virus beingDermatology\n– the main precipitating factor. Other infections and drugs are also\n\n causes. Mucosal involvement is absent or limited to only one Erythema mucosal surface.\n\n ● Stevens-Johnson syndrome is characterised by\n\n mucocutaneous necrosis with at least two mucosal sites involved. multiforme, Skin involvement may be limited or extensive. Drugs or\n\n combinations of infections or drugs are the main associations.\n\n Epithelial necrosis with few inflammatory cells is seen on\n\n histopathology. The extensive necrosis distinguishes Stevens- Stevens-Johnson Johnson syndrome from erythema multiforme. Stevens-Johnson\n\n syndrome may have features overlapping with toxic epidermal\n\n necrolysis including a prodromal illness. syndrome\nand ● Toxic epidermal necrosis which is usually drug-induced, is\nToxic an acute severe similar disease characterised by extensive skin and\n mucosal necrosis accompanied by systemic toxicity. On\n\n histopathology there is full thickness epidermal necrosis with epidermal subepidermal detachment.\n\n Management ● Early recognition and call for help\n\n ● Full supportive care to maintain haemodynamic equilibrium necrolysis\n Complications ● Mortality rates are 5-12% with SJS and >30% with TEN with\n\n death often due to sepsis, electrolyte imbalance or multi-system\n\n organ failure\n\n Erythema multiforme Stevens-Johnson syndrome",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg33",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 33,
+    "text": "ency\nAcute meningococcaemia\n\nDescription ● A serious communicable infection transmitted via respiratory\n\n secretions; bacteria get into the circulating blood Dermatology\nCause ● Gram negative diplococcus Neisseria meningitides –\n\nPresentation ● Features of meningitis (e.g. headache, fever, neck stiffness), Acute\n septicaemia (e.g. hypotension, fever, myalgia) and a typical rash\n\n ● Non-blanching purpuric rash on the trunk and extremities, which\n\n may be preceded by a blanching maculopapular rash, and can\n\n rapidly progress to ecchymoses, haemorrhagic bullae and tissue meningococcaemia\n necrosis\n\nManagement ● Antibiotics (e.g. benzylpenicillin)\n\n ● Prophylactic antibiotics (e.g. rifampicin) for close contacts (ideally\n\n within 14 days of exposure)\n\nComplications ● Septicaemic shock, disseminated intravascular coagulation, multiorgan failure and death",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg34",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 34,
+    "text": "ency\n Erythroderma (‘red skin’)\n\n Description ● Exfoliative dermatitis involving at least 90% of the skin surface\n\n Causes ● Previous skin disease (e.g. eczema, psoriasis), lymphoma, drugsDermatology\n– (e.g.sulphonamides, gold, sulphonylureas, penicillin, allopurinol,\n\n captopril) and idiopathic\n\n Presentation ● Skin appears inflamed, oedematous and scaly Erythroderma ● Systemically unwell with lymphadenopathy and malaise\n\n Management ● Treat the underlying cause, where known\n\n ● Emollients and wet-wraps to maintain skin moisture\n\n ● Topical steroids may help to relieve inflammation\n\n Complications ● Secondary infection, fluid loss and electrolyte imbalance,\n\n hypothermia, high-output cardiac failure and capillary leak\n\n syndrome (most severe)\n\n Prognosis ● Largely depends on the underlying cause\n\n ● Overall mortality rate ranges from 20 to 40%\n\n Erythroderma\n\n In richly pigmented skin the erythema doesn’t look as bright, but on close inspection the inflamed\n\n skin might appear a darker shade of brown or black, with a hint of erythema visible. Palpating the skin\n\n for increased temperature is a vital clue.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg35",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 35,
+    "text": "ency\nEczema herpeticum (Kaposi’s varicelliform eruption)\n\nDescription ● Widespread eruption - serious complication of atopic eczema or\n\n less commonly other skin conditions Dermatology\nCause ● Herpes simplex virus –\n\nPresentation ● Extensive crusted papules, blisters and erosions Eczema\n ● Systemically unwell with fever and malaise\n\nManagement ● Antivirals (e.g. aciclovir)\n\n ● Antibiotics for bacterial secondary infection herpeticum\nComplications ● Herpes hepatitis, encephalitis, disseminated intravascular\n\n coagulation (DIC) and rarely, death\n\n Eczema herpeticum",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg36",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 36,
+    "text": "ency\n Necrotising fasciitis\n\n Description ● A rapidly spreading infection of the deep fascia with secondary\n\n tissue necrosisDermatology\n– Causes ● Group A haemolytic streptococcus, or a mixture of anaerobic and\n\n aerobic bacteria\n\n ● Risk factors include abdominal surgery and medical co-morbidities Necrotising\n (e.g. diabetes, malignancy)\n\n ● 50% of cases occur in previously healthy individuals fasciitis\n Presentation ● Severe pain\n\n ● Erythematous, blistering, and necrotic skin\n\n ● Systemically unwell with fever and tachycardia\n\n ● Presence of crepitus (subcutaneous emphysema)\n\n ● X-ray may show soft tissue gas (absence should not exclude the\n\n diagnosis)\n\n Management ● Urgent referral for extensive surgical debridement\n\n ● Intravenous antibiotics\n\n Prognosis ● Mortality up to 76%",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg37",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 37,
+    "text": "Skin Infections / Infestations fections\n /\n\n • The normal skin microflora and antimicrobial peptides protect the skin against\n\n infection. However, when there is skin damage, microorganisms can penetrate Infestations\n resulting in infection.\n • There are 3 main types of skin infections according to their sources: bacterial (e.g.\n\n staphylococcal and streptococcal), viral (e.g. human papilloma virus, herpes simplex\n\n (see ) and herpes zoster (see below)), and fungal (e.g. tinea (see &\n\n 40), candida (see & 40) and yeasts). Infestations (e.g. scabies (see &\n\n 61), lice, cutaneous leishmaniasis) can also occur.\n\n Herpes zoster (shingles) infection due to varicella-zoster virus affecting the\n distribution of the ophthalmic division of the fifth cranial (trigeminal) nerve\n Note: Examination for eye involvement is important\n\nLearning outcomes:\n\n Ability to describe the presentation, investigation and management of:\n\n - cellulitis and erysipelas\n\n - staphylococcal scalded skin syndrome\n\n - superficial fungal infections",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg38",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 38,
+    "text": "Erysipelas and Cellulitisfections\nand Description ● Spreading bacterial infection of the skin\n\n ● Cellulitis involves the deep subcutaneous tissue\n\n ● Erysipelas is an acute superficial form of cellulitis and involves\n\n the dermis and upper subcutaneous tissueInfestations\n– Causes ● Streptococcus pyogenes and Staphylococcus aureus\n\n ● Risk factors include immunosuppression, wounds, leg ulcers,\n Erysipelas toeweb intertrigo, and minor skin injury\nand Presentation ● Most common in the lower limbs\n\n ● Local signs of inflammation – swelling (tumor), erythema (rubor),\n\n warmth (calor), pain (dolor); may be associated with lymphangitis Cellulitis\n ● Systemically unwell with fever, malaise or rigors, particularly with\n\n erysipelas\n\n ● Erysipelas is distinguished from cellulitis by a well-defined, red\n\n raised border\n\n Management ● Antibiotics (e.g. flucloxacillin or benzylpenicillin)\n\n ● Supportive care including rest, leg elevation, sterile dressings and\n\n analgesia\n\n Complications ● Local necrosis, abscess and septicaemia\n\n Cellulitis with elephantiasis of the penis Erysipelas Erysipelas\n\n Even though this is in richly\n\n pigmented skin the\n\n unilateral oedema and\n\n erythema is clearly present\n\n suggesting cellulitis.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg39",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 39,
+    "text": "Staphylococcal scalded skin syndrome fections\n and\nDescription ● Commonly seen in infancy and early childhood\n\nCause ● Production of a circulating epidermolytic toxin from phage group\n\n II, benzylpenicillin-resistant (coagulase positive) staphylococci\n\nPresentation ● Develops within a few hours to a few days, and may be worse over Infestations\n the face, neck, axillae or groins –\n\n ● A scald-like skin appearance is followed by large flaccid bulla\n\n ● Perioral crusting is typical\n\n ● There is intraepidermal blistering in this condition Staphylococcal\n ● Lesions are very painful\n ● Sometimes the eruption is more localised scalded\n ● Recovery is usually within 5-7 days skin\n\nManagement ● Antibiotics (e.g. a systemic penicillinase-resistant penicillin,\n\n erythromycin or appropriate cephalosporin) syndrome\n ● Analgesia\n\n Staphylococcal scalded skin syndrome",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg40",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 40,
+    "text": "Superficial fungal infectionsfections\nand\n Description ● A common and mild infection of the superficial layers of the skin,\n\n nails and hair, but can be severe in immunocompromised\n\n individuals\n\n Cause ● Three main groups: dermatophytes (tinea/ringworm), yeasts (e.g.Infestations\n– candidiasis, malassezia), moulds (e.g. aspergillus)\n\n Presentation ● Varies with the site of infection; usually unilateral and itchy Superfical ● Tinea corporis (tinea infection of the trunk and limbs) - Itchy,\n\n circular or annular lesions with a clearly defined, raised and scalyfungal\n edge is typical\n\n ● Tinea cruris (tinea infection of the groin and natal cleft) – very infections itchy, similar to tinea corporis\n\n ● Tinea pedis (athlete’s foot) – moist scaling and fissuring in\n\n toewebs, spreading to the sole and dorsal aspect of the foot\n\n ● Tinea manuum (tinea infection of the hand) – scaling and dryness\n\n in the palmar creases\n\n ● Tinea capitis (scalp ringworm) – patches of broken hair, scaling\n\n and inflammation\n\n ● Tinea unguium (tinea infection of the nail) – yellow discolouration,\n\n thickened and crumbly nail\n\n ● Tinea incognito (inappropriate treatment of tinea infection with\n\n topical or systemic corticosteroids) – Ill-defined and less scaly\n\n lesions\n\n ● Candidiasis (candidal skin infection) – white plaques on mucosal\n\n areas, erythema with satellite lesions in flexures\n\n ● Pityriasis/Tinea versicolor (infection with Malassezia furfur) – scaly\n\n pale brown patches on upper trunk that fail to tan on sun\n\n exposure, usually asymptomatic\n\n Management ● Establish the correct diagnosis by skin scrapings, hair or nail\n\n clippings (for dermatophytes); skin swabs (for yeasts)\n\n ● General measures: treat known precipitating factors (e.g.\n\n underlying immunosuppressive condition, moist environment)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg41",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 41,
+    "text": "● Topical antifungal agents (e.g. terbinafine cream) ● Oral antifungal agents (e.g. itraconazole) for severe, widespread, nfections\n or nail infections and\n ● Avoid the use of topical steroids – can lead to tinea incognito\n\n ● Correct predisposing factors where possible (e.g. moist\n\n environment, underlying immunosuppression) Infestations\n\n –\n Superfical\n fungal\n Diffuse Tinea capitis\n\n Tinea manuum (right hand) infections\n\nTinea corporis\n\n Tinea capitis\n\nTinea pedis with associated tinea unguium\n\n Pityriasis versicolor Candidiasis (right axilla)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg42",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 42,
+    "text": "ancer\n Skin Cancer\n\n • Skin cancer is one of the most common cancers.\n • In general, skin cancer can be divided into: non-melanoma (basal cell carcinoma and\n\n squamous cell carcinoma) and melanoma (malignant melanoma).\n • Malignant melanoma is the most life-threatening type of skin cancer and is one of\n\n the few cancers affecting the younger population.\n • Sun exposure is the single most preventable risk factor for skin cancer.\n\n Learning outcomes:\n\n Ability to recognise:\n\n - basal cell carcinoma\n\n - squamous cell carcinoma\n\n - malignant melanoma",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg43",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 43,
+    "text": "ancerBasal cell carcinoma\n –\n Basal\nDescription ● A slow-growing, locally invasive malignant tumour of the\n cell\n epidermal keratinocytes normally in older individuals, only rarely\n\n metastasises ● Most common malignant skin tumour carcinoma\n\nCauses ● Risk factors include UV exposure, history of frequent or severe\n\n sunburn in childhood, skin type I (always burns, never tans),\n\n increasing age, male sex, immunosuppression, previous history of\n\n skin cancer, and genetic predisposition\n\nPresentation ● Various morphological types including nodular (most common),\n\n superficial (plaque-like), cystic, morphoeic (sclerosing), keratotic\n\n and pigmented\n\n ● Nodular basal cell carcinoma is a small, skin-coloured papule or\n\n nodule with surface telangiectasia, and a pearly rolled edge; the\n\n lesion may have a necrotic or ulcerated centre (rodent ulcer)\n\n ● Most common over the head and neck\n\nManagement ● Surgical excision - treatment of choice as it allows histological\n\n examination of the tumour and margins\n\n ● Mohs micrographic surgery (i.e. excision of the lesion and tissue\n\n borders are progressively excised until specimens are\n\n microscopically free of tumour) - for high risk, recurrent tumours\n\n ● Radiotherapy - when surgery is not appropriate\n\n ● Other e.g. cryotherapy, curettage and cautery, topical\n\n photodynamic therapy, and topical treatment (e.g. imiquimod\n\n cream) - for small and low-risk lesions\n\nComplications ● Local tissue invasion and destruction\n\nPrognosis ● Depends on tumour size, site, type, growth pattern/histological\n\n subtype, failure of previous treatment/recurrence, and\n\n immunosuppression\n\n Basal cell carcinoma – nodular type",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg44",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 44,
+    "text": "ancer\n– Squamous cell carcinoma\n\n Description ● A locally invasive malignant tumour of the epidermal Squamous\n keratinocytes or its appendages, which has the potential to\ncell\n metastasise\n\n Causes ● Risk factors include excessive UV exposure, pre-malignant skin carcinoma conditions (e.g. actinic keratoses), chronic inflammation (e.g. leg\n\n ulcers, wound scars), immunosuppression and genetic\n\n predisposition\n\n Presentation ● Keratotic (e.g. scaly, crusty), ill-defined nodule which may ulcerate\n\n Management ● Surgical excision - treatment of choice\n\n ● Mohs micrographic surgery – may be necessary for ill-defined,\n\n large, recurrent tumours\n\n ● Radiotherapy - for large, non-resectable tumours\n\n Prognosis ● Depends on tumour size, site, histological pattern, depth\n\n of invasion, perineural involvement, and immunosuppression\n\n Squamous cell carcinoma – adjacent to ear (left) and glans penis (right)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg45",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 45,
+    "text": "ancer\nMalignant melanoma –\n\nDescription ● An invasive malignant tumour of the epidermal melanocytes, Malignant\n which has the potential to metastasise\n\nCauses ● Risk factors include excessive UV exposure, skin type I (always burns, never tans), history of > 100 moles or atypical neavus melanoma\n\n syndrome moles, family history in first degree relative or previous\n\n history of melanoma\n\nPresentation ● The ‘ABCDE Symptoms’ rule (*major suspicious features):\n\n Asymmetrical shape*\n\n Border irregularity\n\n Colour irregularity*\n\n Diameter > 6mm\n\n Evolution of lesion (e.g. change in size and/or shape)*\n\n Symptoms (e.g. bleeding, itching)\n\n ● More common on the legs in women and trunk in men\n\nTypes ● Superficial spreading melanoma – common on the lower limbs,\n\n in young and middle-aged adults; related to intermittent highintensity UV exposure; around 70% of all melanomas are superficial\n\n spreading melanomas\n\n ● Nodular melanoma - common on the trunk, in young and middleaged adults; related to intermittent high-intensity UV exposure\n\n ● Lentigo maligna melanoma - common on the face, in elderly\n\n population; related to long-term cumulative UV exposure\n\n ● Acral lentiginous melanoma - common on the palms, soles and nail\n\n beds, in elderly population; no clear relation with UV exposure\n\nManagement ● Depends on the staging of melanoma (currently used system in\n\n the UK - 2009 American Joint Committee of Cancer Staging System\n\n (AJCC)). Stages I-IV are based on primary tumour Breslow thickness,\n\n lymph node involvement and evidence of metastases. Stage I is the\n\n earliest and stage IV is the most advanced)\n\n ● In general, surgical excision is the definitive treatment (often a\n\n second surgery, wide local excision is needed after the initial",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg46",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 46,
+    "text": "ancer\n– excision biopsy). Radiotherapy may sometimes be useful.\n\n Chemotherapy is used for metastatic disease.\n\n Prognosis ● Prognosis depends on the stage of melanoma and Breslow Malignant\n thickness.\n\n ● In general, 90% of people diagnosed with melanoma in England and\n\n Wales survived 10 years or more (Cancer Research UK, 2010-2011). melanoma\n\n Superficial spreading melanoma Nodular melanoma\n\n Lentigo maligna melanoma Acral lentiginous melanoma\n Acral lentiginous melanoma (in situ)\n ©by Matthew Scorer, licensed under CC BYNC-ND 4.0.\n\n Further reading: British Association of Dermatologists. Revised UK guidelines for the management of cutaneous\n melanoma 2010. https://www.bad.org.uk/library-media%5Cdocuments%5CMelanoma_2010.pdf",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg47",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 47,
+    "text": "matory\nInflammatory Skin Conditions Skin\n\n • Eczema, acne and psoriasis are chronic inflammatory skin disorders that follow a\n\n relapsing and remitting course. There are many types of eczema but we shall just Conditions consider atopic eczema here.\n • These skin disorders are not infectious.\n • Management is aimed at achieving control and not providing a cure.\n • Complications are mainly due to the psychological and social effects.\n\n • Patient education is important in these chronic skin conditions and should\n\n concentrate on providing information about the nature of condition, aims of\n\n treatment and the available treatment options.\n\nLearning outcomes:\n\n Ability to describe the presentation, demonstrate assessment, formulate a\n\n differential diagnosis, instigate investigation and discuss how to provide\n\n continuing care of:\n\n - atopic eczema\n\n - acne\n\n - psoriasis",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg48",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 48,
+    "text": "Atopic eczemamatory\nSkin Description ● Eczema (or dermatitis) is a chronic skin condition common in children but also prevalent in adults.\n\n Epidemiology ● 20% prevalence in <12 years old in the UK\n\n Causes ● Not fully understood, but a positive family history of atopy (i.e.Conditions eczema, asthma, allergic rhinitis) is often present\n\n–\nAtopic ● variantsA primaryof geneticthe proteindefectfilaggrin)in skin barrierappearsfunctionto underlie(lossatopicof functioneczema\n\n ● Exacerbating factors such as infections, allergens (e.g. chemicals,eczema food, dust, pet fur), sweating, heat, occupation and severe stress\n\n Presentation ● Acute presentation consists of itchy papules and vesicle often\n\n weepy (exudative)\n\n ● Chronic lesions : dry scaly itchy patches can be erythematous in\n\n paler skin or grey/ brown in richly pigmented skin\n\n ▪ More common on the face and extensor aspects of limbs in infants,\n\n and the flexor aspects in children and adults\n\n ● In richly pigmented skin eczema may present as\n\n brown, grey or purple bumps (papular eczema or follicular\n\n eczema)\n\n ● Chronic scratching/rubbing leads to lichenification\n\n ● Across of skin types eczema can lead to\n\n pigmentary changes such as hypopigmentation (reduced\n\n pigmentation) and hyperpigmentation (increased pigmentation)\n\n ● Nail may show pitting and ridging of the nails\n\n Management ● General measures - avoid known exacerbating agents, frequent\n\n emollients +/- bandages and bath oil/soap substitute\n\n ● Topical therapies – topical steroids for active areas; topical\n\n immunomodulators (e.g. tacrolimus, pimecrolimus) for\n\n maintenance therapy as steroid-sparing agents\n\n ● Oral therapies - antihistamines for symptomatic relief, antibiotics\n\n (e.g. flucloxacillin) for secondary bacterial infections, and\n\n antivirals (e.g. aciclovir) for secondary herpes infection",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg49",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 49,
+    "text": "● Phototherapy and immunosuppressants (e.g. azathioprine, matory\n ciclosporin, methotrexate) for severe non- responsive cases, biologic Skin\n therapy\n\nComplications ● Secondary bacterial infection (crusted weepy lesions)\n\n ● Secondary viral infection - molluscum contagiosum (pearly Conditions papules with central umbilication), viral warts and eczema\n –\n herpeticum (see ) Atopic\n eczema\n\n © Cardiff and Vale University Health Board.\n\n Atopic eczema\n\nFurther reading: NICE. Eczema – Atopic, last updated Jan 2018. https://cks.nice.org.uk/eczema-atopic",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg50",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 50,
+    "text": "matory Acne vulgaris\n\n Description ● An inflammatory disease of the pilosebaceous follicleSkin\n Epidemiology ● Over 80% of teenagers aged 13- 18 years\n\n Causes ● Hormonal (androgen)\n\n ● Contributing factors include increased sebum production,Conditions\n– abnormal follicular keratinization, bacterial colonization\n\n (Propionibacterium acnes) and inflammationAcne\n Presentation ● Non-inflammatory lesions (mild acne) - open and closed\n\n comedones (blackheads and whiteheads) vulgaris\n ● Inflammatory lesions (moderate and severe acne) - papules,\n\n pustules, nodules, and cysts\n\n ● In richly pigmented skin:\n\n 1. Inflammatory lesions’ may not be so apparent, instead\n\n hyperpigmented lesions (‘acne hyperpigmented\n\n macules’) are seen.\n\n Hyperpigmented lesions may also signify ongoing\n\n inflammation\n\n 2. Non erythematous nodules may be present and detected by\n\n palpation\n\n ● Commonly affects the face, chest and upper back\n\n Comedones (Left and Middle) Papules and nodules (Right)\n\n Management ● General measures - no specific food has been identified to cause\n\n acne, treatment needs to be continued for at least 6 weeks to\n\n produce effect\n\n ● Topical therapies (for mild acne) - benzoyl peroxide and topical\n\n antibiotics (antimicrobial properties), and topical retinoids",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg51",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 51,
+    "text": "(comedolytic and anti-inflammatory properties) mmatory\n ● Oral therapies (for moderate to severe acne) - oral antibiotics, and\n anti-androgens (in females) Skin\n\n ● Oral retinoids (for severe acne)\n\nComplications ● Post-inflammatory hyperpigmentation, scarring, deformity,\n\n psychological and social effects Conditions\n\n –\n PsoriasisPsoriasis\n\nDescription ● A chronic inflammatory skin disease due to hyperproliferation of\n\n keratinocytes and inflammatory cell infiltration\n\nTypes ● Chronic plaque psoriasis is the most common type\n\n ● Other types include guttate (raindrop lesions), seborrhoeic\n\n (naso-labial and retro-auricular), flexural (body folds), pustular\n\n (palmar-plantar), and erythrodermic (total body redness)\n\nEpidemiology ● Affects about 2% of the population in the UK\n\nCauses ● Complex interaction between genetic, immunological and\n\n environmental factors\n\n ● Precipitating factors include trauma (which may produce a\n\n Köebner phenomenon), infection (e.g. tonsillitis), drugs, stress,\n\n and alcohol\n\nPresentation ● Well-demarcated erythematous scaly plaques\n\n ● in richly pigmented skin psoriasis can\n\n present as dark brown, grey or purple patches or plaques\n\n ● Lesions can sometimes be itchy, burning or painful\n\n ● Common on the extensor surfaces of the body and over scalp\n\n ● Auspitz sign (scratch and gentle removal of scales cause capillary\n\n bleeding)\n\n ● 50% have associated nail changes (e.g. pitting, onycholysis)\n\n ● 5-8% suffer from associated psoriatic arthropathy - symmetrical\n\n polyarthritis, asymmetrical oligomonoarthritis, lone distal\n\n interphalangeal disease, psoriatic spondylosis, and arthritis\n\n mutilans (flexion deformity of distal interphalangeal joints)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg52",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 52,
+    "text": "Management ● General measures - avoid known precipitating factors, emollientsmmatory\n to reduce scales\nSkin ● Topical therapies (for localised and mild psoriasis) - vitamin D\n\n analogues, topical corticosteroids, coal tar preparations,\n\n dithranol, topical retinoids, keratolytics and scalp preparations\n\n ● Phototherapy (for extensive disease) - phototherapy i.e. UVB andConditions\n– photochemotherapy i.e. psoralen+UVA\n\n ● Oral therapies (for extensive and severe psoriasis, or psoriasis Psoriasis with systemic involvement) - methotrexate, retinoids,\n\n ciclosporin, mycophenolate mofetil, fumaric acid esters,\n\n and biological agents (e.g. etanercept, adalimumab, ustekinumab)\n\n (see )\n\n Complications ● Erythroderma (see ), psychological and social effects\n\n Köebner phenomenon Plaque Psoriasis\n\n Plaque psoriasis Nail changes and arthropathy Scalp Psoriasis",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg53",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 53,
+    "text": "ing\n\n Blistering Disorders Disorders\n\n • In general, blistering skin disorders can be divided into: immunobullous diseases\n\n (e.g. bullous pemphigoid, pemphigus vulgaris), blistering skin infections (e.g. herpes\n\n simplex) and other (e.g. porphyria cutanea tarda).\n • The fragility of blisters depends on the level of split within the skin – an intraepidermal split (a split within the epidermis) causes blisters to rupture easily;\n\n whereas a sub-epidermal split (a split between the epidermis and dermis) causes\n\n blisters to be less fragile.\n • The common causes of blisters are impetigo (see below), insect bites, herpes simplex\n\n infection (see ), herpes zoster infection (see ), acute contact\n\n dermatitis, pompholyx (vesicular eczema of the hands and feet, see below) and\n\n burns.\n • Bullous pemphigoid (see ) and pemphigus vulgaris (see ) are\n\n uncommon conditions due to immune reaction within the skin.\n\nBullous impetigo in a new tattoo Pompholyx\n\n Learning outcomes:\n\n 1. Ability to recognise common causes of blisters\n\n 2. Ability to recognise:\n\n - Bullous pemphigoid\n\n - Pemphigus vulgaris",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg54",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 54,
+    "text": "ng\n\n Bullous pemphigoidDisorders\n\n–\nBullous DescriptionCause ●● AAutoantibodiesblistering skin againstdisorderantigenswhich usuallybetweenaffectsthe epidermisthe elderlyand\n\n dermis causing a sub-epidermal split in the skin\n\n Presentation ● Tense, fluid-filled blisters on an erythematous base pemphigoid ● Lesions are often itchy\n\n ● May be preceded by a non-specific itchy rash\n\n ● Usually affects the trunk and limbs (mucosal involvement less\n\n common)\n\n Management ● General measures – wound dressings where required, monitor\n\n for signs of infection\n\n ● Topical therapies for localised disease - topical steroids\n\n ● Oral therapies for widespread disease – oral steroids, combination\n\n of oral tetracycline and nicotinamide, immunosuppressive agents\n\n (e.g. azathioprine, mycophenolate mofetil, methotrexate, and\n\n other)\n\n Bullous pemphigoid",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg55",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 55,
+    "text": "ering\n\nPemphigus vulgaris\n Disorders\nDescription ● A blistering skin disorder which usually affects the middle-aged –\n\nCause ● Autoantibodies against antigens within the epidermis causing an\n\n intra-epidermal split in the skin Pemphigus\nPresentation ● Flaccid, easily ruptured blisters forming erosions and crusts\n\n ● Lesions are often painful vulgaris\n ● Usually affects the mucosal areas (can precede skin involvement)\n\nManagement ● General measures – wound dressings where required, monitor for\n\n signs of infection, good oral care (if oral mucosa is involved)\n\n ● Oral therapies – high-dose oral steroids, immunosuppressive\n\n agents (e.g. methotrexate, azathioprine, cyclophosphamide,\n\n mycophenolate mofetil, and other)\n\n Pemphigus vulgaris\n\n Pemphigus vulgaris affecting the oral mucosa",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg56",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 56,
+    "text": "entary\n\n Pigmentary Disorders\n • Pigmentary issues are a significant problem in all patients, how it differs in differentDisorders skin colour - population in the UK and it is important that medical students and\n\n–\n\n • In general, a pigment change can present as hypopigmentation (reduced Vitiligo junior doctors appreciate the dermatoses pertinent to these groups.\n\n pigmentation), depigmentation (complete loss of pigment), or hyperpigmentation\n\n (increased pigmentation).\n • Below are some of the common pigmentary disorders which can cause significant\n\n embarrassment and distress especially in the darker skin types.\n\n Learning objectives:\n\n 1. Ability to formulate a differential diagnosis, describe the investigation and\n\n discuss the management in patients with:\n\n - vitiligo\n\n - melasma\n\n Vitiligo\n\n Description ● An acquired depigmenting disorder, where there is complete loss\n\n of pigment cells (melanocytes)\n\n Cause ● Thought to be an autoimmune disorder, where the innate\n\n immune system causes destruction or loss of melanocytes, leading\n\n to loss of pigment formation in the skin\n\n Presentation ● Presentation at any age\n • A single patch or multiple patches of depigmentation (complete loss\n\n of pigment), often symmetrical\n\n ● Common sites are exposed areas such as face, hands, feet, as well\n\n as body folds and genitalia\n\n ● Favours sites of injury and this phenomenon is called the Koebner\n\n phenomenon\n\n Management ● Minimise skin injury as a cut, graze, or sunburn can potentially\n\n trigger a new patch of vitiligo\n\n ● Topical treatments such as topical steroids and calcineurin\n\n inhibitors (such as topical tacrolimus and pimecrolimus)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg57",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 57,
+    "text": "ntary ● Phototherapy such as UVB therapy, excimer laser\n\n ● Oral immunosuppressants such as methotrexate, ciclosporin and\n\n mycophenolate mofetil Disorders\n\n –\n\nMelasma\n\nDescription ● An acquired chronic skin disorder, where there is increased Melasma\n pigmentation in the skin\n\nCause ● Thought to be due to genetic predisposition, and triggered by\n\n factors such as sun exposure, hormonal changes such as pregnancy\n\n and contraceptive pills\n\n ● The pigmentation is caused by an overproduction of pigment\n\n (melanin) by pigment cells (melanocytes)\n\nPresentation ● Brown macules (freckle-like spots) or larger patches with an\n\n irregular border\n\n ● Symmetrical distribution\n\n ● Common sites are forehead, cutaneous upper lips and cheeks,\n\n rarely can occur on neck, shoulders and upper arms\n\nManagement ● Lifelong sun protection\n\n ● Discontinuation of hormonal contraceptive pills\n\n ● Cosmetic camouflage\n\n ● Topical treatments that aim at inhibiting the formation of new\n\n melanin such as hydroquinone, azelaic acid, kojic acid (a chelating\n\n agent) and vitamin C\n\n ● Laser treatments need to be used with caution as the heat\n\n generated by lasers can potentially cause post-inflammatory\n\n hyperpigmentation.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg58",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 58,
+    "text": "on\n\n Common Important ProblemsImportant\n • There are several commonly-encountered skin problems in clinical practice. Below\n\n are some of the important differential diagnoses for each of these presentations.Problems • Clinical exposure is the key to achieve competence in diagnosing, investigating and\n\n managing these skin problems.\n\n Learning objectives:\n\n Ability to formulate a differential diagnosis, describe the investigation and\n\n discuss the management in patients with:\n\n - chronic leg ulcers\n\n - itchy eruption\n\n - a changing pigmented lesion\n\n - purpuric eruption\n\n - a red swollen leg\n\n - keloid scars",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg59L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 59,
+    "text": "Dermatology: Handbook for medical students\n\nChronic leg ulcers\n • Leg ulcers are classified according to aetiology. In general, there are th\n\n vasculitic ulcers (purpuric, punched out lesions), infected ulcers (purul\n\n carcinoma in long-standing non-healing ulcers).\n • In clinical practice, there can be mixture of arterial, venous and/or neu\n\nVenous ulcer Venous ulcer\n\n© Cardiff and Vale University Health Board.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg59R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 59,
+    "text": "s & junior doctors\n\nhree main types: venous, arterial and neuropathic ulcers. Other causes include\n\n ent discharge, may have systemic signs) and malignancy (e.g. squamous cell\n\nuropathic components in an ulcer.\n\n Arterial ulcer Neuropathic ulcer",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg60L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 60,
+    "text": "Dermatology: Handbook for medical students\n\nChronic leg ulcers\n\n Venous ulcer\n\nHistory - Often painful, worse on standing - Painful espec\n - History of venous disease e.g. varicose legs are eleva\n veins, deep vein thrombosis - History of art\n atheroscleros\nCommon sites - Malleolar area (more common over - Pressure and\n medial than lateral malleolus) supramalleol\n distal points e\nLesion - Large, shallow irregular ulcer - Small, sharpl\n - Exudative and granulating base - Necrotic base\n\nAssociated - Warm skin - Cold skin\nfeatures - Normal peripheral pulses - Weak or abse\n - Leg oedema, haemosiderin and melanin - Shiny pale sk\n deposition (brown pigment), - Loss of hair\n lipodermatosclerosis, and atrophie\n blanche (white scarring with dilated\n capillaries)\nPossible - Normal ankle/brachial pressure index - ABPI < 0.8 - p\ninvestigations (i.e. ABPI 0.8-1) insufficiency\n - Doppler stud\nManagement - Compression bandaging - Vascular reco\n (after excluding arterial insufficiency) - Compression\n contraindicate",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg60R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 60,
+    "text": "s & junior doctors\n\n Arterial ulcer Neuropathic ulcer\n\n cially at night, worse when - Often painless\n ated - Abnormal sensation\n terial disease e.g. - History of diabetes or neurological\n sis disease\nd trauma sites e.g. pretibial, - Pressure sites e.g. soles, heel, toes,\n ar (usually lateral), and at metatarsal heads\n e.g. toes\n y defined deep ulcer - Variable size and depth\n e - Granulating base\n - May be surrounded by or underneath a\n hyperkeratotic lesion (e.g. callus)\n - Warm skin\n ent peripheral pulses - Normal peripheral pulses*\nkin *cold, weak or absent pulses if it is a\n neuroischaemic ulcer\n - Peripheral neuropathy\n\n presence of arterial - ABPI < 0.8 implies a neuroischaemic\n ulcer\ndies and angiography - X-ray to exclude osteomyelitis\nonstruction - Wound debridement\nn bandaging is - Regular repositioning, appropriate\ned footwear and good nutrition\n\n 59 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg61L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 61,
+    "text": "Dermatology: Handbook for medical students\n\nItchy eruption\n • An itchy (pruritic) eruption can be caused by an inflammatory conditio\n\n reaction (e.g. some cases of urticaria) or an unknown cause, possibly a\n\n Chronic fissured hand eczema Scabies\n\n © Cardiff and Vale Univer\n\n R © Cardiff and Vale University Health Board.\n Lichen planus Lichen planus\n\nNote that lichen planus in darker skin types has a typical purplish tinge.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg61R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 61,
+    "text": "s & junior doctors\n\non (e.g. eczema), infection (e.g. varicella), infestation (e.g. scabies), allergic\n\nautoimmune (e.g. lichen planus).\n\n Urticaria\n Dermatology:\n Handbook\n for\n medical\n students\n rsity Health Board. &\n Wickham’s striae junior\n doctors\n\n 60 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg62L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 62,
+    "text": "Dermatology: Handbook for medical students\n\nItchy eruption\n\n Eczema Scabies\nHistory - Personal or family history of - May have history of con\n atopy with symptomatic indivi\n - Exacerbating factors (e.g. - Pruritus worse at night\n allergens, irritants)\nCommon sites - Variable (e.g. flexor aspects in - Sides of fingers, finger w\n children and adults with wrists, elbows, ankles, fe\n atopic eczema) nipples and genitals\n Lichen nitidus pattern in darker\n skin\n\nLesion - Dry, erythematous patches - Linear burrows (may be\n - Acute eczema is tortuous) or rubbery nod\n erythematous, vesicular and\n exudative\nAssociated - Secondary bacterial or viral - Secondary eczema and\nfeatures infections impetigo\n\nPossible - Patch testing - Skin scrape, extraction o\ninvestigations - Serum IgE levels mite and view under\n - Skin swab microscope\nManagement - Emollients - Scabicide (e.g. permethr\n - Corticosteroids or malathion)\n - Immunomodulators - Antihistamines\n - Antihistamines",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg62R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 62,
+    "text": "s & junior doctors\n\n Urticaria Lichen planus\n tact - Precipitating factors (e.g. - Family history in 10% of cases\n duals food, - May be drug-induced\n contact, drugs)\n\nwebs, - No specific tendency - Forearms, wrists, and legs\n eet, - Always examine the oral\n mucosa\n\n - Pink wheals (transient) - Violaceous (lilac) flat-topped\n dules - May be round, annular, or Papules or hyperpigmented\n polycyclic papules (in darker skin) Dermatology: - Symmetrical distribution\n - May be associated with - Nail changes and hair loss\n angioedema or anaphylaxis - Lacy white streaks on the oral Handbook mucosa and skin lesions\n for (Wickham’s striae)\nof - Bloods and urinalysis to - Skin biopsy exclude a systemic cause medical\n\n rin - Antihistamines - Corticosteroids students\n - Corticosteroids - Antihistamines &\n junior\n doctors\n\n 61 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg63L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 63,
+    "text": "Dermatology: Handbook for medical students\n\nA changing pigmented lesion\n • A changing pigmented lesion can be benign (e.g. melanocytic naevi, se\n\n Congenital naevus Seborrhoeic k",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg63R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 63,
+    "text": "s & junior doctors\n\neborrhoeic wart) or malignant (e.g. malignant melanoma).\n\nkeratoses Malignant melanoma\n\n 62 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg64L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 64,
+    "text": "Dermatology: Handbook for medical students\n\n A changing pigmented lesion\n\n Benign\n Melanocytic naevi S\nHistory - Not usually present at birth but develop - Tend to arise\n during infancy, childhood or adolescence - Often multipl\n - Asymptomatic\n\nCommon sites - Variable - Face and trun\n\nLesion - Congenital naevi may be large, - Warty greasy\n pigmented, protuberant and hairy - ‘Stuck on’ ap\n - Junctional naevi are small, flat and dark edges\n - Intradermal naevi are usually dome-shape\n papules or nodules\n - Compound naevi are usually raised, warty,\n hyperkeratotic, and/or hairy\nManagement - Only if symptomatic - Only if sympt\n Shave or complete excision Curette and ca\n Cryotherapy",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg64R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 64,
+    "text": "s & junior doctors\n\n Malignant\n eborrhoeic wart Malignant melanoma\n in the middle-aged or elderly - Tend to occur in adults or the middle-aged\n le and asymptomatic - History of evolution of lesion\n - May be symptomatic (e.g. itchy, bleeding)\n - Presence of risk factors\nnk - More common on the legs in women and\n trunk in men\n - Darker skin tomes acral sites\ny papules or nodules - Features of ABCDE:\n pearance, with well-defined Asymmetrical shape\n Border irregularity\n Colour irregularity\n Diameter > 6mm\n Evolution of lesion\n\ntomatic - Local Excision\nautery Treatment based on Breslow Thickness\n\n 63 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg65L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 65,
+    "text": "Dermatology: Handbook for medical students\n\n Purpuric eruption\n • A purpuric eruption can be thrombocytopenic (e.g. meningoco\n\n thrombocytopenic purpura) or non-thrombocytopenic e.g. tra\n\n purpura).\n\nHenoch-Schönlein purpura Actini",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg65R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 65,
+    "text": "s & junior doctors\n\noccal septicaemia, disseminated intravascular coagulation, idiopathic\n\n uma, drugs (e.g. steroids), aged skin, vasculitis (e.g. Henoch-Schönlein\n\n ic purpura\n\n 64 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg66L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 66,
+    "text": "Dermatology: Handbook for medical students\n\nPurpuric eruption\n\n Meningococcal septicaemia Disseminated intravasc\n coagulation\nHistory - Acute onset - History of trauma,\n - Symptoms of meningitis and malignancy,\n septicaemia sepsis, obstetric\n complications,\n transfusions, or liver fail\nCommon sites - Extremities - Spontaneous bleeding fr\n ear, nose and throat,\n gastrointestinal tract,\n respiratory tract or woun\n site\nLesion - Petechiae, ecchymoses, - Petechiae, ecchymoses,\n haemorrhagic bullae and/or haemorragic bullae and/\n tissue necrosis tissue necrosis\nAssociated - Systemically unwell - Systemically unwell\nfeatures\nPossible - Bloods - Bloods (a clotting screen\ninvestigations - Lumbar puncture important)\n\nManagement - Antibiotics - Treat the underlying cau\n - Transfuse for coagulatio\n deficiencies\n - Anticoagulants for throm",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg66R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 66,
+    "text": "s & junior doctors\n\n ular Vasculitis Actinic purpura\n\n - Painful lesions - Arise in the elderly population\n with sun-damaged skin\n\n ure\nrom - Dependent areas (e.g. legs, - Extensor surfaces of hands\n buttocks, flanks) and forearms\n - Such skin is easily traumatised\nnd\n\n - Palpable purpura (often - Non-palpable purpura\n/or painful) - Surrounding skin is atrophic\n and thin\n - Systemically unwell - Systemically well Dermatology:n is - Bloods and urinalysis - No investigation is needed\n - Skin biopsy\n Handbook\nuse - Treat the underlying cause - No treatment is needed\n for\n n - Steroids and\n immunosuppressants if there medicalmbosis is systemic involvement\n students\n &\n junior\n 65 British Association of Dermatologists Problem Important Common do",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg67L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 67,
+    "text": "Dermatology: Handbook for medical students\n\nA red swollen leg\n\n • The main differential diagnoses for a red swollen leg are cellulitis, erys\n\n Cellulitis/Erysipelas Veno\n\nHistory - Painful spreading rash - Pain with swellin\n - History of abrasion or ulcer - History of prolon\n flights or clotting\n\nExamination - Erysipelas (well-defined edge) - Complete venou\n - Cellulitis (diffuse edge) cyanotic discolou\n\nAssociated - Systemically unwell with fever and - Usually systemic\nfeatures malaise - May present wit\n - May have lymphangitis\n\nPossible - Anti-streptococcal O titre (ASOT) - D-dimer\ninvestigations - Skin swab - Doppler ultrasou\nManagement - Antibiotics - Anticoagulants",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg67R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 67,
+    "text": "s & junior doctors\n\nsipelas, venous thrombosis and chronic venous insufficiency.\n\n ous thrombosis Chronic venous insufficiency\n\nng and redness - Heaviness or aching of leg, which is\nnged bed rest, long haul worse on standing and relieved by\ng tendency walking\n - History of venous thrombosis\n s occlusion may lead to - Discoloured (blue-purple)\nuration - Oedema (improved in the morning)\n - Venous congestion and varicose veins\n ally well - Lipodermatosclerosis (erythematous\n h pulmonary embolism induration, creating ‘champagne\n bottle’ appearance)\n - Stasis dermatitis (eczema with\n inflammatory papules, scaly and Dermatology: crusted erosions)\n - Haemosiderin deposition\n - Venous ulcer Handbook\n - Doppler ultrasound and/or venography\n for\nund and/or venography\n - Leg elevation and compression medical stockings\n - Sclerotherapy or surgery for varicose\n veins students\n &\n junior\n 66 British Association of Dermatologists Problem Important Common doc",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg68L",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 68,
+    "text": "Dermatology: Handbook for medical students\n\nKeloid Scars\n\nDescription ● An overgrowth of scar tissue, which tends to be larg\n\nCause ● Thought to be due to overproduction of collagen du\n\n spots in genetically predisposed individuals\n\n ● More commonly seen in darker skin types\n\nPresentation ● Firm, smooth, hard nodule which can be itchy or pai\n\n ● Common sites are chest and shoulders\n\nManagement ● Avoidance of further trauma to the skin such as scra\n\n ● Topical treatments such as topical steroids and silico\n\n ● Intralesional steroid injection if topical treatments a\n\n ● Surgery such as excision needs to be carried out only\n\n keloid scar",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg68R",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 68,
+    "text": "s & junior doctors\n\nger than the original wound itself\n\n ring wound healing after minor injuries, skin surgery, insect bites and acne\n\n inful\n\natching\n\none gel can potentially flatten the scar, and improve the symptoms\n\nare not effective\n\n y as the last resort and with caution as the new wound may cause a larger\n\n 67 British Association of Dermatologists",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg69",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 69,
+    "text": "gement\n\n ManagementManagement and therapeutics\n\n • Treatment modalities for skin disease can be broadly categorised into medical\n\n therapy (topical and systemic treatments) and physical therapy (e.g. cryotherapy,\n\n phototherapy, photodynamic therapy, lasers and surgery).\n • Topical treatments directly deliver treatment to the affected areas and this reduces\n\n systemic side effects. It is suitable for localised and less severe skin conditions. They\n\n consist of active constituents which are transported into the skin by a base (also\n\n known as a ‘vehicle’). Examples of active ingredients are steroids, tar,\n\n immunomodulators, retinoids, and antibiotics. The common forms of base are lotion\n\n (liquid), cream (oil in water), gel (organic polymers in liquid, transparent), ointment\n\n (oil with little or no water) and paste (powder in ointment).\n • Systemic therapy is used for extensive and more serious skin conditions, if the\n\n treatment is ineffective topically or if there is systemic involvement. However, they\n\n have the disadvantage of causing systemic side effects.\n\n Learning objectives:\n\n Ability to describe the principles of use of the following drugs:\n\n - emollients\n\n - topical/oral corticosteroids\n\n - oral aciclovir\n\n - oral antihistamines\n\n - topical/oral antibiotics\n\n - topical antiseptics\n\n - biological therapy\n\n - Oral retinoids",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg70",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 70,
+    "text": "ement\n\n–\n\n Emollients\n\n ● Aqueous cream, emulsifying ointment, liquid paraffin and white soft Emollients, Examples\n\n paraffin in equal parts (50:50)\n\n Quantity ● 500 grams per tub Topical/Oral Indications ● To rehydrate skin and re-establish the surface lipid layer\n\n ● Useful for dry, scaling conditions and as soap substitutes\n\n Side effects ● Reactions may be irritant or allergic (e.g. due to preservatives or perfumes\n\n in creams) corticosteroids,\nOral Topical/Oral corticosteroids\n\n Examples ● Topical steroids: classified as mildly potent (e.g, hydrocortisone), acyclovir, moderately potent (e.g. clobetasone butyrate (Eumovate)), potent\nOral (e.g.betamethasone valerate (Betnovate)), and very potent (e.g. clobetasol\n\n propionate (Dermovate))\n\n ● Oral steroids: prednisolone\n\n Quantity ● Usually 30 grams per tube (enough to cover the whole body once) antihistamines\n Indications ● Anti-inflammatory and anti-proliferative effects\n\n ● Useful for allergic and immune reactions, inflammatory skin conditions,\n\n blistering disorders, connective tissue diseases, and vasculitis\n\n Side effects ● Local side effects (from topical corticosteroids): skin atrophy (thinning),\n\n telangiectasia, striae, may mask, cause or exacerbate skin infections,\n\n acne, or perioral dermatitis, and allergic contact dermatitis.\n\n ● Systemic side effects (from oral corticosteroids): Cushing’s syndrome,\n\n immunosuppression, hypertension, diabetes, osteoporosis, cataract, and\n\n steroid-induced psychosis\n\n Oral aciclovir\n\n Examples ● Aciclovir\n\n Indications ● Viral infections due to herpes simplex and herpes zoster virus\n\n Side effects ● Gastrointestinal upsets, raised liver enzymes, reversible neurological\n\n reactions, and haematological disorders",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg71",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 71,
+    "text": "ement\n\n –\nOral antihistamines Oral\nExamples ● Classified into nonsedative (e.g. cetirizine, loratadine) and sedative\n\n antihistamines (e.g. chlorpheniramine, hydroxyzine)\n\nIndications ● Block histamine receptors producing an anti-pruritic effect\n\n ● Useful for type-1 hypersensitivity reactions and eczema (especially antihistamines,\n sedative antihistamines for children)\n\nSide effects ● Sedative antihistamines can cause sedation and anticholinergic effects (e.g. dry mouth, blurred vision, urinary retention, and constipation) Topical/Oral\n\nTopical/Oral antibiotics antibiotics,Examples ● Topical antibiotics: fusidic acid, mupirocin (Bactroban), neomycin\n\n ● Oral antibiotics: penicillins, cephalosporins, gentamicin, macrolides, Topical\n nitrofurantoin, quinolones, tetracyclines, vancomycin, metronidazole,\n\n trimethoprim\n\nIndications ● Useful for bacterial skin infections, and some are used for acne antiseptics,\nSide effects ● Local side effects (from topical antibiotics): local skin irritation/allergy Oral\n ● Systemic side effects (from oral antibiotics): gastrointestinal upset, rashes,\n\n anaphylaxis, vaginal candidiasis, antibiotic-associated infection such as retinoids\n Clostridium difficile, and antibiotic resistance (rapidly appears to fusidic\n\n acid)\n\nTopical antiseptics\n\nExamples ● Chlorhexidine, cetrimide, povidone-iodine\n\nIndications ● Treatment and prevention of skin infection\n\nSide effects ● Local side effects: local skin irritation/allergy\n\nOral retinoids\n\nExamples ● Isotretinoin, Acitretin\n\nIndications ● Acne, psoriasis, and disorders of keratinisation\n\nSide effects ● Mucocutaneous reactions such as dry skin, dry lips and dry eyes,\n\n disordered liver function, hypercholesterolaemia, hypertriglyceridaemia,\n\n myalgia, arthralgia and depression\n\n ● Teratogenicity: effective contraception must be practised one month",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg72",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 72,
+    "text": "ement\n\n–\n before, during and at least one month after isotretinoin, but for two years\n\n after Acitretin (consult current BNF for further details) Biological\n Biological Therapy Management\n\n Examples Monoclonal antibodies (eg. Infliximab, Adalimumab, Ustekinumab,Therapy\n Certolizumab, Gorlilumab), Fusion antibody proteins (eg. Etanercept),\n\n Recombinant human cytokines and growth factors (eg. Interleukins)\n\n Indications ● Mainly for psoriasis, atopic dermatitis and hidradenitis suppurativa\n\n Side effects ● Local side effects: redness, swelling, bruising at the site of injection\n\n ● Systemic side effects: allergic reactions, antibody formation, flu-like\n\n symptoms, infections, hepatitis, demyelinating disease, heart failure, blood\n\n problems, rare reports of cancers (eg. non-melanoma skin cancers,\n\n lymphoma)",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg73",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 73,
+    "text": "ical\n Skills\nPractical Skills\n\n • There are four main aspects to focus on in clinical practice:\n\n i) Patient education, particularly on the nature of disease, treatment and\n\n ways to achieve full compliance and effectiveness, and prevention strategies\n\n ii) Effective written communication to general practitioner so that patient care\n\n can be continued appropriately\n\n iii) Good prescribing skills\n\n iv) Good clinical examination and appropriate investigations to facilitate\n\n accurate diagnosis\n\nLearning objectives:\n\n 1. Ability to perform the following tasks:\n\n - explain how to use an emollient or a topical corticosteroid\n\n - make a referral\n\n - write a discharge letter\n\n - write a prescription for emollient\n\n - take a skin swab\n\n - take a skin scrape\n\n 2. Describe the principles of prevention in:\n\n - pressure sores\n\n - sun damage and skin cancer",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg74",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 74,
+    "text": "cal\nSkills\n– Patient education\nPatient How to use emollients\n\n ● Apply liberally and regularly\n education\n How to use topical corticosteroids\n\n ● Apply thinly and only for short-term use (often 1 or 2 weeks only)\n\n ● In general, use 1% hydrocortisone or mild-moderate potent topical\n\n steroids on the face and thin skin areas eg. neck and flexures.\n\n ● Fingertip unit (advised on packaging) – strip of cream the length of a\n\n fingertip\n\n Preventing pressure sores\n\n ● Pressure sores are due to ischaemia resulting from localised damage to\n\n the skin caused by sustained pressure, friction and moisture, particularly\n\n over bony prominences.\n\n ● Preventative measures involve frequent repositioning, nutritional support,\n\n and use of pressure relieving devices e.g. special beds\n\n Preventing sun damage and skin cancer\n\n ● Excessive exposure to UV radiation is the most significant\n\n and preventable risk factor for the development of skin cancer (Table 14)\n\n ● Skin types I and II are at higher risk of developing skin cancer with\n\n excessive sun exposure than other skin types (Table 15)\n\n Table 14. SMART ways to avoid excessive sun exposure\n\n Spend time in the shade between 11am-3pm\n\n Make sure you never burn\n\n Aim to cover up with a t-shirt, wide-brimmed hat and sunglasses\n\n Remember to take extra care with children\n\n Then use Sun Protection Factor (SPF) 30+ sunscreen",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg75",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 75,
+    "text": "al\n Skills\nTable 15. Fitzpatrick Skin phototype –\n\nSkin types Description Written\nI Always burns, never tans\n\nII Always burns, sometimes tans\n\nIII Sometimes burns, always tans\n\nIV Never burns, always tans communication\nV Tans very easily, very rarely burns and\nVI tans very easily, never burns prescribingWritten communication\n skills\n\nWriting a referral letter\n\n Important points to include:\n\n ● Reason(s) for referral, current presentation, and impact of disease\n\n ● Patient’s medical and social background\n\n ● Current and previous treatment, length of treatment, and response to\n\n treatment\n\nWriting a discharge letter\n\n Important points to include:\n\n ● Reason(s) for admission and current presentation\n\n ● Hospital course\n\n ● Investigation results\n\n ● Diagnostic impression\n\n ● Management plan (including treatment and follow-up appointment)\n\n ● Content of patient education given\n\nPrescribing skills\n\nWriting a prescription\n\nGeneral tips:\n\n ● Include drug name, dose, frequency and an intended duration/review date\n\n ● 30 grams of cream/ointment covers the whole adult body area\n\n ● 1 fingertip unit covers the area of two palms and equals ½ gram",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg76",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 76,
+    "text": "al\nSkills\n– Prescribing emollients\n\n General tips Clinical\n ● Emollients come in 500 gram tubs\n\n ● In general, ointment-based emollients are useful for dry, scaling skin\n\n whereas creams and lotions are for red, inflamed and weeping lesions examination\nand\n Prescribing topical corticosteroids\n\n General tips\n\n ● Prescribe the weakest potency corticosteroid that is effective investigations\n ● Use only for short term\n\n ● Need to specify the base i.e. cream, lotion or ointment\n\n Clinical examination and investigations\n\n Taking a skin swab\n • Skin swabs can be taken from vesicles, pustules, erosions, ulcers and mucosal\n\n surfaces for microbial culture.\n • Surface swabs are generally not encouraged.\n\n Taking a skin scrape\n • Skin scrapes are taken from scaly lesions by gentle use of a scalpel in suspected\n\n fungal infection (to show evidence of fungal hyphae and/or spores) and from\n\n burrows in scabies (see ).\n\n Measuring ankle-brachial pressure index (ABPI)\n • ABPI is used to identify the presence and severity of peripheral arterial insufficiency,\n\n which is important in the management of leg ulcers.\n • Measure the cuff pressure of dorsalis pedis or posterior tibial artery using a Doppler\n\n and compare it to the pressure of brachial artery.\n • The ABPI is measured by calculating the ratio of highest pressure obtained from the\n\n ankle to highest brachial pressure of the two arms and is normally >0.8.\n • Inappropriately high reading will be obtained in calcified vessels (often in diabetics).",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  },
+  {
+    "id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL_pg77",
+    "doc_id": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL",
+    "page": 77,
+    "text": "General References\n\n 1. Verbov J Dermatological disorders. In: Lissauer T, Carroll W eds. Illustrated Textbook\n\n of Paediatrics. 5th Edition: 2018: Chap25: 442-52. Elsevier.\n\n 2. British Association of Dermatologists guidelines and patient information leaflets.\n\n Acknowledgements\n\nWe wish to acknowledge the following contributors:\n\n • Dr Tanya Bleiker, President (2020-2022) and Prof Mini Singh, Undergraduate\n\n workstream Chair of the British Association of Dermatologists, for writing the\n\n Foreword to the 3rd edition.\n • Mark Goodfield, former President (2008-2010) of the British Association of\n\n Dermatologists, for writing the Foreword to the 1st edition.\n • Dr Niels K. Veien for allowing us to use his photographs. All illustrations in this\n\n handbook were obtained from \"D@nderm\" with his permission.\n • Dr Susan Burge OBE, retired Consultant Dermatologist, Oxford Radcliffe Hospitals\n\n NHS Trust, Professor Peter Friedmann, Emeritus Professor of Dermatology,\n\n Southampton General Hospital, and Professor Lesley Rhodes, Professor of\n\n Experimental Dermatology, University of Manchester for reviewing and contributing\n\n valuable suggestions.\n • Mr Kian Tjon Tan, Consultant Plastic Surgeon, Calderdale and Huddersfield NHS\n\n Foundation Trust for contributing the chapter Background Knowledge.\n • Dr Yi Ning Chiang, Specialist Trainee in Dermatology, Salford Royal NHS Foundation\n\n Trust for contributing the chapter Common Important Problems.\n\n • Dr Matthew Scorer, Locum Consultant Dermatologist, University Hospitals of\n\n Leicester for allowing us to use his photographs in this handbook. All illustrations\n\n used are with his permission.\n • The Cardiff and Vale University Health Board for allowing us to use their photographs\n\n in this handbook. All illustrations used are with their permission.\n • DermNet NZ for allowing us to use their photographs in this handbook. All\n\n illustrations used are with their permission.",
+    "metadata": {
+      "type": "medical_guideline",
+      "source": "Derm_Handbook_3rd-Edition-_Nov_2020-FINAL"
+    }
+  }
+]

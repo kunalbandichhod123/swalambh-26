@@ -1,0 +1,26 @@
+# 1. Security (NEVER commit these)
+.env
+.env.local
+api_keys.txt
+secrets.json
+
+# 2. Virtual Environment (Heavy & OS-specific)
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# 3. Data & PDFs (Large files belong in storage, not git)
+*.pdf
+DATA PDFs/
+pdfs/
+input_pdfs/
+# dermsight_texts_json/
+# dermsight_faiss_index/
+
+# 4. OS & IDE Junk
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
