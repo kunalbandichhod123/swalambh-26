@@ -1,0 +1,6 @@
+Test ID,Category,Response Time,Accuracy,Faithfulness,Status
+TC-001,Treatment,2.84s,0.97,1.0,✅ PASS
+TC-002,Diagnosis,4.51s,0.44,0.75,✅ PASS
+TC-003,Management,2.62s,0.96,1.0,✅ PASS
+TC-004,Pathology,2.15s,0.79,1.0,✅ PASS
+TC-005,Dosage,2.83s,0.78,1.0,✅ PASS
