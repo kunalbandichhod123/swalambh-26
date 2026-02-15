@@ -100,4 +100,3 @@ python server.py
 
 frontend 
 npm run dev
-=======
